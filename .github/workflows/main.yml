@@ -4,9 +4,15 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: write
+  id-token: write
 
 jobs:
-  tox:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
