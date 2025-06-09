@@ -12,12 +12,14 @@ def main():
     # Read the CSV and get just the FFTY holdings.
     df = pd.read_csv(csv_url)
     ffty_holdings = df[df["Account"] == "FFTY"].sort_values("StockTicker")
-
+    
     # Remove the cash holdings
     ffty_holdings = ffty_holdings[
         ~ffty_holdings["StockTicker"].isin(["Cash&Other", "8AMMF0JA0"])
     ]
 
+    df['Weightings'] = df['Weightings'].str.rstrip('%').astype(float)
+    
     # Select the relevant columns
     ffty_holdings = ffty_holdings[
         ["StockTicker", "SecurityName", "Weightings"]
