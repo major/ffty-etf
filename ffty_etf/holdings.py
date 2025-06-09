@@ -18,7 +18,7 @@ def main():
         ~ffty_holdings["StockTicker"].isin(["Cash&Other", "8AMMF0JA0"])
     ]
 
-    df['Weightings'] = df['Weightings'].str.rstrip('%').astype(float)
+    ffty_holdings['Weightings'] = ffty_holdings['Weightings'].str.rstrip('%').astype(float)
     
     # Select the relevant columns
     ffty_holdings = ffty_holdings[
