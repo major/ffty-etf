@@ -1,6 +1,11 @@
 Just a little repository to grab the latest list of IBD 50 stocks from the FFTY ETF.
 
-Prefer a CSV? Just grab [ffty.csv](ffty.csv)
+Weights are assigned based on the ranking from IBD.
+Refer to the [PDF factsheet from Innovator ETFs](https://www.innovatoretfs.com/pdf/FFTY_Factsheet.pdf) for details.
+
+🤓 Prefer a CSV? Just grab [ffty.csv](ffty.csv)
+
+✨ Prefer something more visual? Use [flatgithub](https://flatgithub.com/major/ffty-etf?filename=ffty.csv)!
 
 ```
 | StockTicker   | SecurityName                          |   Weightings |
