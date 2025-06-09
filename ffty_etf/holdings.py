@@ -20,7 +20,7 @@ def main():
 
     # Select the relevant columns
     ffty_holdings = ffty_holdings[
-        ["StockTicker", "CUSIP", "SecurityName", "Weightings", "Shares", "Price"]
+        ["StockTicker", "SecurityName", "Weightings"]
     ]
 
     # Write the holdings to markdown and CSV files
