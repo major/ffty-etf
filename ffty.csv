@@ -1,51 +1,51 @@
 ,StockTicker,SecurityName,Weightings
-0,TSSI,TSS Inc/MD,4.04
-1,CRWV,CoreWeave Inc,3.95
-2,CLS,Celestica Inc,3.71
-3,HIMS,Hims & Hers Health Inc,3.69
-4,HOOD,Robinhood Markets Inc,3.64
-5,PLTR,Palantir Technologies Inc,3.57
-6,AXON,Axon Enterprise Inc,3.44
-7,AGX,Argan Inc,3.2
-8,FUTU,Futu Holdings Ltd,3.18
-9,RKLB,Rocket Lab Corp,3.03
-10,UTI,Universal Technical Institute Inc,3.03
-11,DAVE,Dave Inc,3.02
-12,TMDX,TransMedics Group Inc,3.02
-13,DUOL,Duolingo Inc,3.01
-14,FIX,Comfort Systems USA Inc,3.0
-15,NFLX,Netflix Inc,2.99
-16,OUST,Ouster Inc,2.98
-17,URBN,Urban Outfitters Inc,2.97
-18,ATI,ATI Inc,2.92
-19,ROOT,Root Inc/OH,2.61
-20,AMSC,American Superconductor Corp,2.07
-21,AEM,Agnico Eagle Mines Ltd,2.05
-22,ZS,Zscaler Inc,2.02
-23,PWR,Quanta Services Inc,2.01
-24,APH,Amphenol Corp,2.0
-25,RBRK,Rubrik Inc,1.95
-26,AFRM,Affirm Holdings Inc,1.93
-27,LMND,Lemonade Inc,1.9
-28,ZLAB,Zai Lab Ltd,1.77
-29,ADMA,ADMA Biologics Inc,1.65
-30,RBLX,ROBLOX Corp,1.06
-31,SNOW,Snowflake Inc,1.01
-32,NET,Cloudflare Inc,1.0
-33,SNEX,StoneX Group Inc,1.0
-34,ATAT,Atour Lifestyle Holdings Ltd,0.99
-35,LIF,Life360 Inc,0.99
-36,PLMR,Palomar Holdings Inc,0.98
-37,VEEV,Veeva Systems Inc,0.97
-38,ODD,Oddity Tech Ltd,0.96
-39,RYTM,Rhythm Pharmaceuticals Inc,0.94
-40,MIRM,Mirum Pharmaceuticals Inc,0.52
-41,MELI,MercadoLibre Inc,0.5
-42,LPLA,LPL Financial Holdings Inc,0.5
-43,BROS,Dutch Bros Inc,0.49
-44,TOST,Toast Inc,0.49
-45,CVLT,Commvault Systems Inc,0.48
-46,SKWD,Skyward Specialty Insurance Group Inc,0.48
-47,SHOP,Shopify Inc,0.46
-48,TGTX,TG Therapeutics Inc,0.46
-49,XPEV,XPeng Inc,0.45
+0,CRCL,Circle Internet Group Inc,4.72
+1,TSSI,TSS Inc/MD,4.02
+2,RKLB,Rocket Lab Corp,3.88
+3,HIMS,Hims & Hers Health Inc,3.7
+4,CRWV,CoreWeave Inc,3.65
+5,DAVE,Dave Inc,3.53
+6,CLS,Celestica Inc,3.5
+7,AXON,Axon Enterprise Inc,3.42
+8,PLTR,Palantir Technologies Inc,3.39
+9,OUST,Ouster Inc,3.32
+10,AGX,Argan Inc,3.26
+11,TMDX,TransMedics Group Inc,3.1
+12,HOOD,Robinhood Markets Inc,3.07
+13,AMSC,American Superconductor Corp,2.98
+14,UTI,Universal Technical Institute Inc,2.93
+15,DUOL,Duolingo Inc,2.9
+16,AEM,Agnico Eagle Mines Ltd,2.86
+17,URBN,Urban Outfitters Inc,2.86
+18,ATI,ATI Inc,2.85
+19,FUTU,Futu Holdings Ltd,2.75
+20,AFRM,Affirm Holdings Inc,2.02
+21,TFPM,Triple Flag Precious Metals Corp,1.97
+22,FIX,Comfort Systems USA Inc,1.97
+23,APH,Amphenol Corp,1.97
+24,NFLX,Netflix Inc,1.97
+25,VEEV,Veeva Systems Inc,1.94
+26,GRND,Grindr Inc,1.92
+27,ZS,Zscaler Inc,1.92
+28,DOCS,Doximity Inc,1.91
+29,RBRK,Rubrik Inc,1.87
+30,LMND,Lemonade Inc,1.14
+31,SNOW,Snowflake Inc,0.99
+32,ODD,Oddity Tech Ltd,0.99
+33,PWR,Quanta Services Inc,0.98
+34,MELI,MercadoLibre Inc,0.98
+35,NET,Cloudflare Inc,0.97
+36,MIRM,Mirum Pharmaceuticals Inc,0.97
+37,ATAT,Atour Lifestyle Holdings Ltd,0.97
+38,PLMR,Palomar Holdings Inc,0.95
+39,CRWD,Crowdstrike Holdings Inc,0.94
+40,SYM,Symbotic Inc,0.53
+41,VRT,Vertiv Holdings Co,0.5
+42,TOST,Toast Inc,0.49
+43,RBLX,ROBLOX Corp,0.49
+44,LIF,Life360 Inc,0.49
+45,LPLA,LPL Financial Holdings Inc,0.49
+46,AU,Anglogold Ashanti Plc,0.48
+47,BROS,Dutch Bros Inc,0.48
+48,KLAC,KLA CORP,0.47
+49,ZLAB,Zai Lab Ltd,0.45
