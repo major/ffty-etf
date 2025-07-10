@@ -1,51 +1,51 @@
 ,StockTicker,SecurityName,Weightings
-0,RKLB,Rocket Lab Corp,3.84
-1,IREN,IREN Ltd,3.78
-2,AMSC,American Superconductor Corp,3.68
-3,PLTR,Palantir Technologies Inc,3.64
-4,CLS,Celestica Inc,3.56
-5,DAVE,Dave Inc,3.42
-6,TSSI,TSS Inc/MD,3.42
-7,AGX,Argan Inc,3.38
-8,HOOD,Robinhood Markets Inc,3.37
-9,SYM,Symbotic Inc,3.36
-10,CRWV,CoreWeave Inc,3.31
-11,OUST,Ouster Inc,3.12
-12,AXON,Axon Enterprise Inc,2.97
-13,FIX,Comfort Systems USA Inc,2.95
-14,AFRM,Affirm Holdings Inc,2.95
-15,APH,Amphenol Corp,2.92
-16,NFLX,Netflix Inc,2.88
-17,TMDX,TransMedics Group Inc,2.8
-18,URBN,Urban Outfitters Inc,2.8
-19,RDDT,Reddit Inc,2.8
-20,FUTU,Futu Holdings Ltd,2.09
-21,ATI,ATI Inc,2.04
-22,VRT,Vertiv Holdings Co,2.0
-23,RBRK,Rubrik Inc,1.98
-24,ZS,Zscaler Inc,1.98
-25,PWR,Quanta Services Inc,1.97
-26,MELI,MercadoLibre Inc,1.93
+0,RKLB,Rocket Lab Corp,3.82
+1,IREN,IREN Ltd,3.73
+2,AMSC,American Superconductor Corp,3.72
+3,PLTR,Palantir Technologies Inc,3.67
+4,CLS,Celestica Inc,3.62
+5,HOOD,Robinhood Markets Inc,3.43
+6,SYM,Symbotic Inc,3.41
+7,AGX,Argan Inc,3.4
+8,CRWV,CoreWeave Inc,3.29
+9,OUST,Ouster Inc,3.27
+10,DAVE,Dave Inc,3.15
+11,TSSI,TSS Inc/MD,3.1
+12,AXON,Axon Enterprise Inc,2.98
+13,AFRM,Affirm Holdings Inc,2.96
+14,FIX,Comfort Systems USA Inc,2.94
+15,APH,Amphenol Corp,2.9
+16,NFLX,Netflix Inc,2.86
+17,URBN,Urban Outfitters Inc,2.81
+18,TMDX,TransMedics Group Inc,2.79
+19,RDDT,Reddit Inc,2.75
+20,FUTU,Futu Holdings Ltd,2.24
+21,RBRK,Rubrik Inc,2.06
+22,VRT,Vertiv Holdings Co,2.01
+23,ATI,ATI Inc,2.0
+24,ZS,Zscaler Inc,1.97
+25,PWR,Quanta Services Inc,1.96
+26,WGS,GeneDx Holdings Corp,1.95
 27,TFPM,Triple Flag Precious Metals Corp,1.9
-28,LMND,Lemonade Inc,1.86
-29,WGS,GeneDx Holdings Corp,1.83
+28,MELI,MercadoLibre Inc,1.9
+29,LMND,Lemonade Inc,1.83
 30,SOFI,SoFi Technologies Inc,1.1
-31,ATAT,Atour Lifestyle Holdings Ltd,1.05
-32,SNEX,StoneX Group Inc,1.03
-33,DOCS,Doximity Inc,1.02
+31,ATAT,Atour Lifestyle Holdings Ltd,1.06
+32,DOCS,Doximity Inc,1.04
+33,SNEX,StoneX Group Inc,1.02
 34,RBLX,ROBLOX Corp,1.01
-35,NET,Cloudflare Inc,1.01
-36,SNOW,Snowflake Inc,1.01
-37,CRWD,Crowdstrike Holdings Inc,1.0
+35,CRWD,Crowdstrike Holdings Inc,1.0
+36,NET,Cloudflare Inc,1.0
+37,SNOW,Snowflake Inc,0.98
 38,VEEV,Veeva Systems Inc,0.96
-39,AEM,Agnico Eagle Mines Ltd,0.96
-40,COIN,Coinbase Global Inc,0.51
-41,NVDA,NVIDIA Corp,0.51
-42,KLAC,KLA CORP,0.5
-43,GH,Guardant Health Inc,0.49
+39,AEM,Agnico Eagle Mines Ltd,0.95
+40,RYTM,Rhythm Pharmaceuticals Inc,0.65
+41,COIN,Coinbase Global Inc,0.53
+42,NVDA,NVIDIA Corp,0.51
+43,ODD,Oddity Tech Ltd,0.49
 44,TSM,Taiwan Semiconductor Manufacturing Co Ltd,0.49
-45,LIF,Life360 Inc,0.49
-46,RMBS,Rambus Inc,0.49
-47,ODD,Oddity Tech Ltd,0.48
-48,RYTM,Rhythm Pharmaceuticals Inc,0.48
-49,ARM,ARM Holdings PLC,0.46
+45,KLAC,KLA CORP,0.49
+46,LIF,Life360 Inc,0.48
+47,GH,Guardant Health Inc,0.48
+48,RMBS,Rambus Inc,0.48
+49,ARM,ARM Holdings PLC,0.45
