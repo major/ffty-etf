@@ -1,51 +1,51 @@
 ,StockTicker,SecurityName,Weightings
-0,RKLB,Rocket Lab Corp,3.89
-1,HOOD,Robinhood Markets Inc,3.72
-2,PLTR,Palantir Technologies Inc,3.67
-3,FUTU,Futu Holdings Ltd,3.63
-4,AMSC,American Superconductor Corp,3.59
-5,IREN,IREN Ltd,3.59
-6,CLS,Celestica Inc,3.55
-7,ATI,ATI Inc,3.11
-8,DAVE,Dave Inc,3.08
-9,CRCL,Circle Internet Group Inc,3.08
-10,FIX,Comfort Systems USA Inc,3.06
-11,CRWV,CoreWeave Inc,3.05
-12,TSSI,TSS Inc/MD,3.05
-13,SYM,Symbotic Inc,3.04
-14,OUST,Ouster Inc,3.03
-15,RYTM,Rhythm Pharmaceuticals Inc,3.02
-16,URBN,Urban Outfitters Inc,3.02
-17,ATAT,Atour Lifestyle Holdings Ltd,2.96
-18,AXON,Axon Enterprise Inc,2.81
-19,AFRM,Affirm Holdings Inc,2.8
-20,AGX,Argan Inc,2.15
-21,SOFI,SoFi Technologies Inc,2.12
-22,APH,Amphenol Corp,2.05
-23,JBL,Jabil Inc,2.01
-24,NFLX,Netflix Inc,1.97
-25,DOCS,Doximity Inc,1.96
-26,SNEX,StoneX Group Inc,1.94
-27,NET,Cloudflare Inc,1.9
-28,RBRK,Rubrik Inc,1.89
-29,ALAB,Astera Labs Inc,1.82
-30,COIN,Coinbase Global Inc,1.06
-31,RBLX,ROBLOX Corp,1.05
-32,MIRM,Mirum Pharmaceuticals Inc,1.0
-33,VEEV,Veeva Systems Inc,1.0
-34,VRT,Vertiv Holdings Co,0.98
-35,SNOW,Snowflake Inc,0.97
-36,ODD,Oddity Tech Ltd,0.95
-37,ZS,Zscaler Inc,0.93
-38,TMDX,TransMedics Group Inc,0.93
-39,WGS,GeneDx Holdings Corp,0.9
-40,LIF,Life360 Inc,0.53
-41,AEM,Agnico Eagle Mines Ltd,0.51
-42,TFPM,Triple Flag Precious Metals Corp,0.51
+0,RKLB,Rocket Lab Corp,4.0
+1,HOOD,Robinhood Markets Inc,3.7
+2,PLTR,Palantir Technologies Inc,3.64
+3,FUTU,Futu Holdings Ltd,3.6
+4,AMSC,American Superconductor Corp,3.6
+5,CLS,Celestica Inc,3.5
+6,IREN,IREN Ltd,3.49
+7,OUST,Ouster Inc,3.46
+8,CRWV,CoreWeave Inc,3.22
+9,SYM,Symbotic Inc,3.1
+10,ATI,ATI Inc,3.08
+11,FIX,Comfort Systems USA Inc,3.03
+12,RYTM,Rhythm Pharmaceuticals Inc,3.02
+13,ATAT,Atour Lifestyle Holdings Ltd,2.99
+14,TSSI,TSS Inc/MD,2.94
+15,CRCL,Circle Internet Group Inc,2.93
+16,URBN,Urban Outfitters Inc,2.92
+17,DAVE,Dave Inc,2.9
+18,AFRM,Affirm Holdings Inc,2.88
+19,AXON,Axon Enterprise Inc,2.78
+20,AGX,Argan Inc,2.16
+21,SOFI,SoFi Technologies Inc,2.08
+22,APH,Amphenol Corp,2.03
+23,JBL,Jabil Inc,1.98
+24,DOCS,Doximity Inc,1.97
+25,NFLX,Netflix Inc,1.96
+26,NET,Cloudflare Inc,1.94
+27,RBRK,Rubrik Inc,1.91
+28,SNEX,StoneX Group Inc,1.89
+29,ALAB,Astera Labs Inc,1.86
+30,RBLX,ROBLOX Corp,1.06
+31,COIN,Coinbase Global Inc,1.04
+32,VRT,Vertiv Holdings Co,1.0
+33,VEEV,Veeva Systems Inc,0.99
+34,MIRM,Mirum Pharmaceuticals Inc,0.98
+35,ODD,Oddity Tech Ltd,0.97
+36,SNOW,Snowflake Inc,0.96
+37,ZS,Zscaler Inc,0.92
+38,TMDX,TransMedics Group Inc,0.92
+39,WGS,GeneDx Holdings Corp,0.89
+40,NVDA,NVIDIA Corp,0.53
+41,LIF,Life360 Inc,0.53
+42,ONC,BeOne Medicines Ltd,0.53
 43,PWR,Quanta Services Inc,0.51
-44,NVDA,NVIDIA Corp,0.51
-45,DASH,DoorDash Inc,0.5
-46,ONC,BeOne Medicines Ltd,0.5
-47,KNSA,Kiniksa Pharmaceuticals International Plc,0.5
-48,ZLAB,Zai Lab Ltd,0.48
-49,CRWD,Crowdstrike Holdings Inc,0.47
+44,AEM,Agnico Eagle Mines Ltd,0.51
+45,TFPM,Triple Flag Precious Metals Corp,0.5
+46,KNSA,Kiniksa Pharmaceuticals International Plc,0.49
+47,ZLAB,Zai Lab Ltd,0.49
+48,DASH,DoorDash Inc,0.48
+49,CRWD,Crowdstrike Holdings Inc,0.46
