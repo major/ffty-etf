@@ -5,53 +5,53 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 ```
 |    | StockTicker   | SecurityName                              |   Weightings |
 |---:|:--------------|:------------------------------------------|-------------:|
-|  0 | TSSI          | TSS Inc/MD                                |         3.98 |
-|  1 | FUTU          | Futu Holdings Ltd                         |         3.96 |
-|  2 | IREN          | IREN Ltd                                  |         3.72 |
-|  3 | AMSC          | American Superconductor Corp              |         3.48 |
-|  4 | PLTR          | Palantir Technologies Inc                 |         3.42 |
-|  5 | HOOD          | Robinhood Markets Inc                     |         3.42 |
-|  6 | RKLB          | Rocket Lab Corp                           |         3.41 |
-|  7 | CLS           | Celestica Inc                             |         3.4  |
-|  8 | OUST          | Ouster Inc                                |         3.27 |
-|  9 | URBN          | Urban Outfitters Inc                      |         3.2  |
-| 10 | CRWV          | CoreWeave Inc                             |         3.14 |
-| 11 | ATI           | ATI Inc                                   |         3.06 |
-| 12 | ATAT          | Atour Lifestyle Holdings Ltd              |         3.03 |
-| 13 | NVDA          | NVIDIA Corp                               |         2.9  |
-| 14 | FIX           | Comfort Systems USA Inc                   |         2.89 |
-| 15 | AFRM          | Affirm Holdings Inc                       |         2.89 |
-| 16 | AGX           | Argan Inc                                 |         2.86 |
-| 17 | RYTM          | Rhythm Pharmaceuticals Inc                |         2.85 |
-| 18 | SYM           | Symbotic Inc                              |         2.78 |
+|  0 | FUTU          | Futu Holdings Ltd                         |         4    |
+|  1 | TSSI          | TSS Inc/MD                                |         3.98 |
+|  2 | IREN          | IREN Ltd                                  |         3.73 |
+|  3 | CLS           | Celestica Inc                             |         3.59 |
+|  4 | AMSC          | American Superconductor Corp              |         3.56 |
+|  5 | RKLB          | Rocket Lab Corp                           |         3.51 |
+|  6 | PLTR          | Palantir Technologies Inc                 |         3.49 |
+|  7 | HOOD          | Robinhood Markets Inc                     |         3.36 |
+|  8 | URBN          | Urban Outfitters Inc                      |         3.27 |
+|  9 | OUST          | Ouster Inc                                |         3.12 |
+| 10 | ATI           | ATI Inc                                   |         3.06 |
+| 11 | CRWV          | CoreWeave Inc                             |         3    |
+| 12 | SYM           | Symbotic Inc                              |         2.99 |
+| 13 | ATAT          | Atour Lifestyle Holdings Ltd              |         2.98 |
+| 14 | AGX           | Argan Inc                                 |         2.96 |
+| 15 | FIX           | Comfort Systems USA Inc                   |         2.92 |
+| 16 | NVDA          | NVIDIA Corp                               |         2.91 |
+| 17 | AFRM          | Affirm Holdings Inc                       |         2.85 |
+| 18 | RYTM          | Rhythm Pharmaceuticals Inc                |         2.8  |
 | 19 | CRCL          | Circle Internet Group Inc                 |         2.53 |
-| 20 | COIN          | Coinbase Global Inc                       |         2.01 |
-| 21 | RBLX          | ROBLOX Corp                               |         2    |
-| 22 | APH           | Amphenol Corp                             |         2    |
-| 23 | JBL           | Jabil Inc                                 |         2    |
-| 24 | NET           | Cloudflare Inc                            |         1.99 |
-| 25 | VRT           | Vertiv Holdings Co                        |         1.98 |
-| 26 | SOFI          | SoFi Technologies Inc                     |         1.94 |
-| 27 | NFLX          | Netflix Inc                               |         1.89 |
-| 28 | DOCS          | Doximity Inc                              |         1.88 |
-| 29 | ODD           | Oddity Tech Ltd                           |         1.86 |
-| 30 | ONC           | BeOne Medicines Ltd                       |         1.05 |
-| 31 | LIF           | Life360 Inc                               |         1.04 |
-| 32 | SHOP          | Shopify Inc                               |         1.02 |
-| 33 | PWR           | Quanta Services Inc                       |         1    |
-| 34 | VEEV          | Veeva Systems Inc                         |         1    |
-| 35 | SNOW          | Snowflake Inc                             |         0.99 |
-| 36 | RMBS          | Rambus Inc                                |         0.99 |
+| 20 | JBL           | Jabil Inc                                 |         2.04 |
+| 21 | VRT           | Vertiv Holdings Co                        |         2.02 |
+| 22 | SOFI          | SoFi Technologies Inc                     |         1.96 |
+| 23 | APH           | Amphenol Corp                             |         1.95 |
+| 24 | COIN          | Coinbase Global Inc                       |         1.94 |
+| 25 | RBLX          | ROBLOX Corp                               |         1.94 |
+| 26 | NET           | Cloudflare Inc                            |         1.94 |
+| 27 | DOCS          | Doximity Inc                              |         1.9  |
+| 28 | ODD           | Oddity Tech Ltd                           |         1.84 |
+| 29 | NFLX          | Netflix Inc                               |         1.83 |
+| 30 | LIF           | Life360 Inc                               |         1.05 |
+| 31 | ONC           | BeOne Medicines Ltd                       |         1.03 |
+| 32 | PWR           | Quanta Services Inc                       |         1.01 |
+| 33 | SHOP          | Shopify Inc                               |         0.99 |
+| 34 | VEEV          | Veeva Systems Inc                         |         0.98 |
+| 35 | TSM           | Taiwan Semiconductor Manufacturing Co Ltd |         0.98 |
+| 36 | SNOW          | Snowflake Inc                             |         0.98 |
 | 37 | MIRM          | Mirum Pharmaceuticals Inc                 |         0.98 |
-| 38 | TSM           | Taiwan Semiconductor Manufacturing Co Ltd |         0.98 |
-| 39 | KLAC          | KLA CORP                                  |         0.95 |
-| 40 | ZLAB          | Zai Lab Ltd                               |         0.52 |
+| 38 | RMBS          | Rambus Inc                                |         0.96 |
+| 39 | KLAC          | KLA CORP                                  |         0.93 |
+| 40 | ANET          | Arista Networks Inc                       |         0.51 |
 | 41 | CCJ           | Cameco Corp                               |         0.51 |
-| 42 | TBBK          | Bancorp Inc/The                           |         0.51 |
+| 42 | ZLAB          | Zai Lab Ltd                               |         0.51 |
 | 43 | SNEX          | StoneX Group Inc                          |         0.51 |
-| 44 | TFPM          | Triple Flag Precious Metals Corp          |         0.51 |
-| 45 | ANET          | Arista Networks Inc                       |         0.5  |
-| 46 | ZS            | Zscaler Inc                               |         0.49 |
-| 47 | SFM           | Sprouts Farmers Market Inc                |         0.49 |
-| 48 | KNSA          | Kiniksa Pharmaceuticals International Plc |         0.48 |
-| 49 | ARQT          | Arcutis Biotherapeutics Inc               |         0.47 |
+| 44 | TBBK          | Bancorp Inc/The                           |         0.5  |
+| 45 | TFPM          | Triple Flag Precious Metals Corp          |         0.5  |
+| 46 | ZS            | Zscaler Inc                               |         0.48 |
+| 47 | ARQT          | Arcutis Biotherapeutics Inc               |         0.47 |
+| 48 | SFM           | Sprouts Farmers Market Inc                |         0.47 |
+| 49 | KNSA          | Kiniksa Pharmaceuticals International Plc |         0.46 |
