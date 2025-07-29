@@ -1,51 +1,51 @@
 ,StockTicker,SecurityName,Weightings
-0,TSSI,TSS Inc/MD,3.86
-1,AGX,Argan Inc,3.76
-2,HOOD,Robinhood Markets Inc,3.54
-3,PLTR,Palantir Technologies Inc,3.54
-4,CLS,Celestica Inc,3.48
-5,AMSC,American Superconductor Corp,3.47
-6,OUST,Ouster Inc,3.4
-7,FUTU,Futu Holdings Ltd,3.34
-8,RKLB,Rocket Lab Corp,3.33
-9,IREN,IREN Ltd,3.22
-10,APH,Amphenol Corp,3.08
-11,ALAB,Astera Labs Inc,3.02
-12,AFRM,Affirm Holdings Inc,3.02
-13,ATI,ATI Inc,2.98
-14,RYTM,Rhythm Pharmaceuticals Inc,2.91
-15,ATAT,Atour Lifestyle Holdings Ltd,2.91
-16,SYM,Symbotic Inc,2.89
-17,JBL,Jabil Inc,2.87
-18,URBN,Urban Outfitters Inc,2.86
-19,CRCL,Circle Internet Group Inc,2.81
-20,FIX,Comfort Systems USA Inc,2.48
-21,VRT,Vertiv Holdings Co,2.08
-22,NET,Cloudflare Inc,2.07
-23,PWR,Quanta Services Inc,2.05
-24,IBKR,Interactive Brokers Group Inc,2.04
-25,NVDA,NVIDIA Corp,2.0
-26,LIF,Life360 Inc,2.0
-27,RBLX,ROBLOX Corp,1.97
-28,DOCS,Doximity Inc,1.96
-29,SOFI,SoFi Technologies Inc,1.94
-30,SNOW,Snowflake Inc,1.02
-31,TSM,Taiwan Semiconductor Manufacturing Co Ltd,1.01
-32,ANET,Arista Networks Inc,1.0
-33,VEEV,Veeva Systems Inc,1.0
-34,SHOP,Shopify Inc,1.0
-35,ISSC,Innovative Solutions and Support Inc,0.99
-36,ONC,BeOne Medicines Ltd,0.97
-37,SNEX,StoneX Group Inc,0.97
-38,COIN,Coinbase Global Inc,0.97
-39,RMBS,Rambus Inc,0.94
-40,DASH,DoorDash Inc,0.51
-41,TOST,Toast Inc,0.51
-42,HEI,HEICO Corp,0.5
-43,BZ,Kanzhun Ltd,0.5
-44,CCJ,Cameco Corp,0.5
-45,AEM,Agnico Eagle Mines Ltd,0.49
-46,ACMR,ACM Research Inc,0.49
-47,TFPM,Triple Flag Precious Metals Corp,0.49
-48,MIRM,Mirum Pharmaceuticals Inc,0.48
-49,TBBK,Bancorp Inc/The,0.45
+0,AGX,Argan Inc,3.79
+1,TSSI,TSS Inc/MD,3.65
+2,HOOD,Robinhood Markets Inc,3.61
+3,CLS,Celestica Inc,3.55
+4,PLTR,Palantir Technologies Inc,3.53
+5,AMSC,American Superconductor Corp,3.52
+6,OUST,Ouster Inc,3.36
+7,FUTU,Futu Holdings Ltd,3.33
+8,RKLB,Rocket Lab Corp,3.17
+9,APH,Amphenol Corp,3.14
+10,ALAB,Astera Labs Inc,3.08
+11,AFRM,Affirm Holdings Inc,3.05
+12,IREN,IREN Ltd,3.02
+13,ATI,ATI Inc,3.01
+14,URBN,Urban Outfitters Inc,2.95
+15,SYM,Symbotic Inc,2.91
+16,JBL,Jabil Inc,2.91
+17,ATAT,Atour Lifestyle Holdings Ltd,2.9
+18,RYTM,Rhythm Pharmaceuticals Inc,2.89
+19,CRCL,Circle Internet Group Inc,2.71
+20,FIX,Comfort Systems USA Inc,2.5
+21,VRT,Vertiv Holdings Co,2.16
+22,NET,Cloudflare Inc,2.08
+23,IBKR,Interactive Brokers Group Inc,2.04
+24,NVDA,NVIDIA Corp,2.04
+25,PWR,Quanta Services Inc,2.01
+26,RBLX,ROBLOX Corp,2.01
+27,LIF,Life360 Inc,1.99
+28,DOCS,Doximity Inc,1.97
+29,SOFI,SoFi Technologies Inc,1.93
+30,ANET,Arista Networks Inc,1.03
+31,SNOW,Snowflake Inc,1.02
+32,SHOP,Shopify Inc,1.02
+33,VEEV,Veeva Systems Inc,1.01
+34,TSM,Taiwan Semiconductor Manufacturing Co Ltd,1.0
+35,ONC,BeOne Medicines Ltd,0.99
+36,ISSC,Innovative Solutions and Support Inc,0.98
+37,SNEX,StoneX Group Inc,0.98
+38,RMBS,Rambus Inc,0.96
+39,COIN,Coinbase Global Inc,0.94
+40,ACMR,ACM Research Inc,0.52
+41,DASH,DoorDash Inc,0.51
+42,TOST,Toast Inc,0.51
+43,HEI,HEICO Corp,0.5
+44,BZ,Kanzhun Ltd,0.49
+45,CCJ,Cameco Corp,0.49
+46,AEM,Agnico Eagle Mines Ltd,0.48
+47,MIRM,Mirum Pharmaceuticals Inc,0.48
+48,TFPM,Triple Flag Precious Metals Corp,0.48
+49,TBBK,Bancorp Inc/The,0.46
