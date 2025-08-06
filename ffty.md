@@ -1,52 +1,52 @@
 |    | StockTicker   | SecurityName                              |   Weightings |
 |---:|:--------------|:------------------------------------------|-------------:|
-|  0 | AMSC          | American Superconductor Corp              |         4.33 |
-|  1 | TSSI          | TSS Inc/MD                                |         3.99 |
-|  2 | SYM           | Symbotic Inc                              |         3.68 |
-|  3 | IREN          | IREN Ltd                                  |         3.5  |
-|  4 | PLTR          | Palantir Technologies Inc                 |         3.47 |
-|  5 | HOOD          | Robinhood Markets Inc                     |         3.44 |
-|  6 | FIX           | Comfort Systems USA Inc                   |         3.41 |
-|  7 | CLS           | Celestica Inc                             |         3.41 |
-|  8 | HIMS          | Hims & Hers Health Inc                    |         3.31 |
-|  9 | AGX           | Argan Inc                                 |         3.19 |
-| 10 | ALAB          | Astera Labs Inc                           |         3.14 |
-| 11 | OUST          | Ouster Inc                                |         3.12 |
-| 12 | URBN          | Urban Outfitters Inc                      |         3.05 |
-| 13 | APH           | Amphenol Corp                             |         3.03 |
-| 14 | DAVE          | Dave Inc                                  |         3    |
-| 15 | RMBS          | Rambus Inc                                |         2.96 |
-| 16 | NVDA          | NVIDIA Corp                               |         2.95 |
-| 17 | FUTU          | Futu Holdings Ltd                         |         2.94 |
-| 18 | RKLB          | Rocket Lab Corp                           |         2.82 |
-| 19 | ATI           | ATI Inc                                   |         2.36 |
-| 20 | AFRM          | Affirm Holdings Inc                       |         2.17 |
-| 21 | RYTM          | Rhythm Pharmaceuticals Inc                |         2.09 |
-| 22 | WGS           | GeneDx Holdings Corp                      |         2.05 |
-| 23 | NET           | Cloudflare Inc                            |         2.04 |
-| 24 | ATAT          | Atour Lifestyle Holdings Ltd              |         1.97 |
-| 25 | JBL           | Jabil Inc                                 |         1.92 |
-| 26 | IBKR          | Interactive Brokers Group Inc             |         1.92 |
-| 27 | VRT           | Vertiv Holdings Co                        |         1.9  |
-| 28 | SMCI          | Super Micro Computer Inc                  |         1.88 |
-| 29 | PWR           | Quanta Services Inc                       |         1.88 |
-| 30 | RBLX          | ROBLOX Corp                               |         1.03 |
-| 31 | SHOP          | Shopify Inc                               |         1    |
-| 32 | LIF           | Life360 Inc                               |         0.99 |
-| 33 | ONC           | BeOne Medicines Ltd                       |         0.99 |
-| 34 | SOFI          | SoFi Technologies Inc                     |         0.98 |
-| 35 | ANET          | Arista Networks Inc                       |         0.97 |
-| 36 | DOCS          | Doximity Inc                              |         0.97 |
-| 37 | TSM           | Taiwan Semiconductor Manufacturing Co Ltd |         0.96 |
-| 38 | RBRK          | Rubrik Inc                                |         0.95 |
-| 39 | SEI           | Solaris Energy Infrastructure Inc         |         0.91 |
-| 40 | AEM           | Agnico Eagle Mines Ltd                    |         0.52 |
-| 41 | HEI           | HEICO Corp                                |         0.51 |
-| 42 | TOST          | Toast Inc                                 |         0.5  |
-| 43 | KLAC          | KLA CORP                                  |         0.49 |
-| 44 | FSS           | Federal Signal Corp                       |         0.49 |
-| 45 | SNEX          | StoneX Group Inc                          |         0.49 |
-| 46 | VEEV          | Veeva Systems Inc                         |         0.49 |
-| 47 | ACMR          | ACM Research Inc                          |         0.47 |
+|  0 | AMSC          | American Superconductor Corp              |         4.36 |
+|  1 | SYM           | Symbotic Inc                              |         4.13 |
+|  2 | TSSI          | TSS Inc/MD                                |         3.97 |
+|  3 | PLTR          | Palantir Technologies Inc                 |         3.76 |
+|  4 | IREN          | IREN Ltd                                  |         3.51 |
+|  5 | HOOD          | Robinhood Markets Inc                     |         3.42 |
+|  6 | FIX           | Comfort Systems USA Inc                   |         3.39 |
+|  7 | CLS           | Celestica Inc                             |         3.35 |
+|  8 | AGX           | Argan Inc                                 |         3.34 |
+|  9 | OUST          | Ouster Inc                                |         3.16 |
+| 10 | ALAB          | Astera Labs Inc                           |         3.11 |
+| 11 | FUTU          | Futu Holdings Ltd                         |         3.04 |
+| 12 | APH           | Amphenol Corp                             |         3.02 |
+| 13 | URBN          | Urban Outfitters Inc                      |         3.01 |
+| 14 | NVDA          | NVIDIA Corp                               |         2.94 |
+| 15 | DAVE          | Dave Inc                                  |         2.94 |
+| 16 | HIMS          | Hims & Hers Health Inc                    |         2.92 |
+| 17 | RMBS          | Rambus Inc                                |         2.9  |
+| 18 | RKLB          | Rocket Lab Corp                           |         2.85 |
+| 19 | ATI           | ATI Inc                                   |         2.33 |
+| 20 | AFRM          | Affirm Holdings Inc                       |         2.19 |
+| 21 | RYTM          | Rhythm Pharmaceuticals Inc                |         2.06 |
+| 22 | NET           | Cloudflare Inc                            |         2.04 |
+| 23 | WGS           | GeneDx Holdings Corp                      |         2.03 |
+| 24 | JBL           | Jabil Inc                                 |         1.91 |
+| 25 | ATAT          | Atour Lifestyle Holdings Ltd              |         1.9  |
+| 26 | VRT           | Vertiv Holdings Co                        |         1.9  |
+| 27 | IBKR          | Interactive Brokers Group Inc             |         1.89 |
+| 28 | PWR           | Quanta Services Inc                       |         1.87 |
+| 29 | SMCI          | Super Micro Computer Inc                  |         1.86 |
+| 30 | SHOP          | Shopify Inc                               |         1.02 |
+| 31 | ONC           | BeOne Medicines Ltd                       |         1.01 |
+| 32 | RBLX          | ROBLOX Corp                               |         1    |
+| 33 | LIF           | Life360 Inc                               |         0.98 |
+| 34 | DOCS          | Doximity Inc                              |         0.97 |
+| 35 | SOFI          | SoFi Technologies Inc                     |         0.97 |
+| 36 | ANET          | Arista Networks Inc                       |         0.95 |
+| 37 | TSM           | Taiwan Semiconductor Manufacturing Co Ltd |         0.94 |
+| 38 | SEI           | Solaris Energy Infrastructure Inc         |         0.91 |
+| 39 | RBRK          | Rubrik Inc                                |         0.9  |
+| 40 | AEM           | Agnico Eagle Mines Ltd                    |         0.54 |
+| 41 | FSS           | Federal Signal Corp                       |         0.5  |
+| 42 | SNEX          | StoneX Group Inc                          |         0.49 |
+| 43 | VEEV          | Veeva Systems Inc                         |         0.48 |
+| 44 | HEI           | HEICO Corp                                |         0.48 |
+| 45 | TOST          | Toast Inc                                 |         0.48 |
+| 46 | KLAC          | KLA CORP                                  |         0.47 |
+| 47 | ACMR          | ACM Research Inc                          |         0.46 |
 | 48 | SNOW          | Snowflake Inc                             |         0.46 |
-| 49 | COIN          | Coinbase Global Inc                       |         0.41 |
+| 49 | COIN          | Coinbase Global Inc                       |         0.39 |
