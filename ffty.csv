@@ -1,51 +1,51 @@
 ,StockTicker,SecurityName,Weightings
-0,IREN,IREN Ltd,4.09
-1,HOOD,Robinhood Markets Inc,3.71
-2,RKLB,Rocket Lab Corp,3.66
-3,RDDT,Reddit Inc,3.6
-4,AMSC,American Superconductor Corp,3.46
-5,AGX,Argan Inc,3.44
-6,FUTU,Futu Holdings Ltd,3.43
-7,ALAB,Astera Labs Inc,3.37
-8,CLS,Celestica Inc,3.34
-9,PLTR,Palantir Technologies Inc,3.3
-10,WGS,GeneDx Holdings Corp,3.07
-11,APH,Amphenol Corp,3.03
-12,AFRM,Affirm Holdings Inc,3.02
-13,RYTM,Rhythm Pharmaceuticals Inc,3.01
-14,TFPM,Triple Flag Precious Metals Corp,2.98
-15,FIX,Comfort Systems USA Inc,2.97
-16,LIF,Life360 Inc,2.94
-17,URBN,Urban Outfitters Inc,2.9
-18,OUST,Ouster Inc,2.87
-19,SYM,Symbotic Inc,2.86
-20,ONC,BeOne Medicines Ltd,2.08
-21,MIRM,Mirum Pharmaceuticals Inc,2.05
-22,SOFI,SoFi Technologies Inc,2.04
-23,NVDA,NVIDIA Corp,2.01
-24,LMND,Lemonade Inc,2.0
-25,AEM,Agnico Eagle Mines Ltd,2.0
-26,ANET,Arista Networks Inc,2.0
-27,EME,EMCOR Group Inc,1.99
-28,ATAT,Atour Lifestyle Holdings Ltd,1.98
-29,RMBS,Rambus Inc,1.97
-30,ARQT,Arcutis Biotherapeutics Inc,1.07
-31,CCJ,Cameco Corp,1.02
-32,KGC,Kinross Gold Corp,1.02
-33,GH,Guardant Health Inc,1.02
-34,ANIP,ANI Pharmaceuticals Inc,1.01
-35,KNSA,Kiniksa Pharmaceuticals International Plc,1.0
-36,MEDP,Medpace Holdings Inc,0.99
-37,HMY,Harmony Gold Mining Co Ltd,0.99
-38,JBL,Jabil Inc,0.98
-39,BZ,Kanzhun Ltd,0.96
-40,TARS,Tarsus Pharmaceuticals Inc,0.52
-41,HNGE,Hinge Health Inc,0.51
-42,NET,Cloudflare Inc,0.51
-43,IBKR,Interactive Brokers Group Inc,0.5
-44,PRM,Perimeter Solutions Inc,0.5
-45,FSS,Federal Signal Corp,0.49
-46,WPM,Wheaton Precious Metals Corp,0.49
-47,VRT,Vertiv Holdings Co,0.49
-48,AU,Anglogold Ashanti Plc,0.48
-49,ISSC,Innovative Solutions and Support Inc,0.36
+0,IREN,IREN Ltd,3.88
+1,HOOD,Robinhood Markets Inc,3.63
+2,RDDT,Reddit Inc,3.57
+3,FUTU,Futu Holdings Ltd,3.5
+4,RKLB,Rocket Lab Corp,3.49
+5,AGX,Argan Inc,3.42
+6,CLS,Celestica Inc,3.32
+7,AMSC,American Superconductor Corp,3.31
+8,ALAB,Astera Labs Inc,3.24
+9,APH,Amphenol Corp,3.15
+10,PLTR,Palantir Technologies Inc,3.14
+11,RYTM,Rhythm Pharmaceuticals Inc,3.12
+12,WGS,GeneDx Holdings Corp,3.08
+13,FIX,Comfort Systems USA Inc,3.06
+14,LIF,Life360 Inc,3.03
+15,TFPM,Triple Flag Precious Metals Corp,3.01
+16,AFRM,Affirm Holdings Inc,2.99
+17,URBN,Urban Outfitters Inc,2.98
+18,OUST,Ouster Inc,2.84
+19,SYM,Symbotic Inc,2.74
+20,ONC,BeOne Medicines Ltd,2.13
+21,MIRM,Mirum Pharmaceuticals Inc,2.1
+22,EME,EMCOR Group Inc,2.06
+23,ATAT,Atour Lifestyle Holdings Ltd,2.05
+24,AEM,Agnico Eagle Mines Ltd,2.04
+25,NVDA,NVIDIA Corp,2.03
+26,ANET,Arista Networks Inc,2.02
+27,LMND,Lemonade Inc,2.01
+28,SOFI,SoFi Technologies Inc,2.0
+29,RMBS,Rambus Inc,1.91
+30,ANIP,ANI Pharmaceuticals Inc,1.06
+31,ARQT,Arcutis Biotherapeutics Inc,1.06
+32,GH,Guardant Health Inc,1.05
+33,MEDP,Medpace Holdings Inc,1.04
+34,KNSA,Kiniksa Pharmaceuticals International Plc,1.03
+35,KGC,Kinross Gold Corp,1.03
+36,CCJ,Cameco Corp,1.02
+37,HMY,Harmony Gold Mining Co Ltd,1.01
+38,JBL,Jabil Inc,0.99
+39,BZ,Kanzhun Ltd,0.98
+40,TARS,Tarsus Pharmaceuticals Inc,0.53
+41,PRM,Perimeter Solutions Inc,0.52
+42,NET,Cloudflare Inc,0.52
+43,IBKR,Interactive Brokers Group Inc,0.52
+44,HNGE,Hinge Health Inc,0.51
+45,FSS,Federal Signal Corp,0.51
+46,WPM,Wheaton Precious Metals Corp,0.5
+47,AU,Anglogold Ashanti Plc,0.49
+48,VRT,Vertiv Holdings Co,0.49
+49,ISSC,Innovative Solutions and Support Inc,0.35
