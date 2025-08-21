@@ -1,52 +1,52 @@
 |    | StockTicker   | SecurityName                              |   Weightings |
 |---:|:--------------|:------------------------------------------|-------------:|
-|  0 | IREN          | IREN Ltd                                  |         3.88 |
-|  1 | HOOD          | Robinhood Markets Inc                     |         3.63 |
-|  2 | RDDT          | Reddit Inc                                |         3.57 |
-|  3 | FUTU          | Futu Holdings Ltd                         |         3.5  |
-|  4 | RKLB          | Rocket Lab Corp                           |         3.49 |
-|  5 | AGX           | Argan Inc                                 |         3.42 |
-|  6 | CLS           | Celestica Inc                             |         3.32 |
-|  7 | AMSC          | American Superconductor Corp              |         3.31 |
-|  8 | ALAB          | Astera Labs Inc                           |         3.24 |
-|  9 | APH           | Amphenol Corp                             |         3.15 |
-| 10 | PLTR          | Palantir Technologies Inc                 |         3.14 |
-| 11 | RYTM          | Rhythm Pharmaceuticals Inc                |         3.12 |
-| 12 | WGS           | GeneDx Holdings Corp                      |         3.08 |
-| 13 | FIX           | Comfort Systems USA Inc                   |         3.06 |
-| 14 | LIF           | Life360 Inc                               |         3.03 |
-| 15 | TFPM          | Triple Flag Precious Metals Corp          |         3.01 |
-| 16 | AFRM          | Affirm Holdings Inc                       |         2.99 |
-| 17 | URBN          | Urban Outfitters Inc                      |         2.98 |
-| 18 | OUST          | Ouster Inc                                |         2.84 |
-| 19 | SYM           | Symbotic Inc                              |         2.74 |
-| 20 | ONC           | BeOne Medicines Ltd                       |         2.13 |
-| 21 | MIRM          | Mirum Pharmaceuticals Inc                 |         2.1  |
-| 22 | EME           | EMCOR Group Inc                           |         2.06 |
-| 23 | ATAT          | Atour Lifestyle Holdings Ltd              |         2.05 |
-| 24 | AEM           | Agnico Eagle Mines Ltd                    |         2.04 |
-| 25 | NVDA          | NVIDIA Corp                               |         2.03 |
-| 26 | ANET          | Arista Networks Inc                       |         2.02 |
-| 27 | LMND          | Lemonade Inc                              |         2.01 |
-| 28 | SOFI          | SoFi Technologies Inc                     |         2    |
-| 29 | RMBS          | Rambus Inc                                |         1.91 |
-| 30 | ANIP          | ANI Pharmaceuticals Inc                   |         1.06 |
+|  0 | IREN          | IREN Ltd                                  |         4.09 |
+|  1 | FUTU          | Futu Holdings Ltd                         |         3.72 |
+|  2 | HOOD          | Robinhood Markets Inc                     |         3.56 |
+|  3 | RKLB          | Rocket Lab Corp                           |         3.47 |
+|  4 | AGX           | Argan Inc                                 |         3.45 |
+|  5 | RDDT          | Reddit Inc                                |         3.42 |
+|  6 | CLS           | Celestica Inc                             |         3.29 |
+|  7 | ALAB          | Astera Labs Inc                           |         3.27 |
+|  8 | AMSC          | American Superconductor Corp              |         3.27 |
+|  9 | RYTM          | Rhythm Pharmaceuticals Inc                |         3.17 |
+| 10 | PLTR          | Palantir Technologies Inc                 |         3.11 |
+| 11 | APH           | Amphenol Corp                             |         3.11 |
+| 12 | WGS           | GeneDx Holdings Corp                      |         3.07 |
+| 13 | TFPM          | Triple Flag Precious Metals Corp          |         3.06 |
+| 14 | FIX           | Comfort Systems USA Inc                   |         3.05 |
+| 15 | LIF           | Life360 Inc                               |         3.01 |
+| 16 | AFRM          | Affirm Holdings Inc                       |         2.96 |
+| 17 | URBN          | Urban Outfitters Inc                      |         2.9  |
+| 18 | OUST          | Ouster Inc                                |         2.81 |
+| 19 | SYM           | Symbotic Inc                              |         2.61 |
+| 20 | MIRM          | Mirum Pharmaceuticals Inc                 |         2.15 |
+| 21 | AEM           | Agnico Eagle Mines Ltd                    |         2.11 |
+| 22 | ONC           | BeOne Medicines Ltd                       |         2.11 |
+| 23 | EME           | EMCOR Group Inc                           |         2.06 |
+| 24 | NVDA          | NVIDIA Corp                               |         2.03 |
+| 25 | ATAT          | Atour Lifestyle Holdings Ltd              |         2.02 |
+| 26 | ANET          | Arista Networks Inc                       |         2    |
+| 27 | SOFI          | SoFi Technologies Inc                     |         1.98 |
+| 28 | LMND          | Lemonade Inc                              |         1.96 |
+| 29 | RMBS          | Rambus Inc                                |         1.9  |
+| 30 | ANIP          | ANI Pharmaceuticals Inc                   |         1.07 |
 | 31 | ARQT          | Arcutis Biotherapeutics Inc               |         1.06 |
 | 32 | GH            | Guardant Health Inc                       |         1.05 |
-| 33 | MEDP          | Medpace Holdings Inc                      |         1.04 |
-| 34 | KNSA          | Kiniksa Pharmaceuticals International Plc |         1.03 |
-| 35 | KGC           | Kinross Gold Corp                         |         1.03 |
-| 36 | CCJ           | Cameco Corp                               |         1.02 |
-| 37 | HMY           | Harmony Gold Mining Co Ltd                |         1.01 |
-| 38 | JBL           | Jabil Inc                                 |         0.99 |
-| 39 | BZ            | Kanzhun Ltd                               |         0.98 |
-| 40 | TARS          | Tarsus Pharmaceuticals Inc                |         0.53 |
+| 33 | HMY           | Harmony Gold Mining Co Ltd                |         1.05 |
+| 34 | KGC           | Kinross Gold Corp                         |         1.05 |
+| 35 | KNSA          | Kiniksa Pharmaceuticals International Plc |         1.04 |
+| 36 | MEDP          | Medpace Holdings Inc                      |         1.04 |
+| 37 | BZ            | Kanzhun Ltd                               |         1.03 |
+| 38 | CCJ           | Cameco Corp                               |         0.98 |
+| 39 | JBL           | Jabil Inc                                 |         0.98 |
+| 40 | TARS          | Tarsus Pharmaceuticals Inc                |         0.55 |
 | 41 | PRM           | Perimeter Solutions Inc                   |         0.52 |
-| 42 | NET           | Cloudflare Inc                            |         0.52 |
-| 43 | IBKR          | Interactive Brokers Group Inc             |         0.52 |
-| 44 | HNGE          | Hinge Health Inc                          |         0.51 |
-| 45 | FSS           | Federal Signal Corp                       |         0.51 |
-| 46 | WPM           | Wheaton Precious Metals Corp              |         0.5  |
-| 47 | AU            | Anglogold Ashanti Plc                     |         0.49 |
+| 42 | IBKR          | Interactive Brokers Group Inc             |         0.52 |
+| 43 | HNGE          | Hinge Health Inc                          |         0.52 |
+| 44 | FSS           | Federal Signal Corp                       |         0.51 |
+| 45 | AU            | Anglogold Ashanti Plc                     |         0.51 |
+| 46 | WPM           | Wheaton Precious Metals Corp              |         0.51 |
+| 47 | NET           | Cloudflare Inc                            |         0.51 |
 | 48 | VRT           | Vertiv Holdings Co                        |         0.49 |
 | 49 | ISSC          | Innovative Solutions and Support Inc      |         0.35 |
