@@ -5,53 +5,53 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 ```
 |    | StockTicker   | SecurityName                              |   Weightings |
 |---:|:--------------|:------------------------------------------|-------------:|
-|  0 | RKLB          | Rocket Lab Corp                           |         3.79 |
-|  1 | IREN          | IREN Ltd                                  |         3.77 |
-|  2 | CLS           | Celestica Inc                             |         3.68 |
-|  3 | AMSC          | American Superconductor Corp              |         3.61 |
-|  4 | FIX           | Comfort Systems USA Inc                   |         3.47 |
-|  5 | ALAB          | Astera Labs Inc                           |         3.46 |
-|  6 | FUTU          | Futu Holdings Ltd                         |         3.43 |
-|  7 | PLTR          | Palantir Technologies Inc                 |         3.35 |
-|  8 | HOOD          | Robinhood Markets Inc                     |         3.26 |
-|  9 | WLDN          | Willdan Group Inc                         |         3.22 |
-| 10 | RDDT          | Reddit Inc                                |         3.22 |
-| 11 | MIRM          | Mirum Pharmaceuticals Inc                 |         3.2  |
-| 12 | WGS           | GeneDx Holdings Corp                      |         3.07 |
-| 13 | AFRM          | Affirm Holdings Inc                       |         3.04 |
-| 14 | BZ            | Kanzhun Ltd                               |         2.96 |
-| 15 | RYTM          | Rhythm Pharmaceuticals Inc                |         2.96 |
+|  0 | RKLB          | Rocket Lab Corp                           |         3.86 |
+|  1 | IREN          | IREN Ltd                                  |         3.82 |
+|  2 | CLS           | Celestica Inc                             |         3.81 |
+|  3 | AMSC          | American Superconductor Corp              |         3.67 |
+|  4 | ALAB          | Astera Labs Inc                           |         3.6  |
+|  5 | FIX           | Comfort Systems USA Inc                   |         3.52 |
+|  6 | FUTU          | Futu Holdings Ltd                         |         3.42 |
+|  7 | RDDT          | Reddit Inc                                |         3.39 |
+|  8 | PLTR          | Palantir Technologies Inc                 |         3.32 |
+|  9 | HOOD          | Robinhood Markets Inc                     |         3.23 |
+| 10 | MIRM          | Mirum Pharmaceuticals Inc                 |         3.18 |
+| 11 | WLDN          | Willdan Group Inc                         |         3.17 |
+| 12 | AFRM          | Affirm Holdings Inc                       |         3.08 |
+| 13 | WGS           | GeneDx Holdings Corp                      |         3.01 |
+| 14 | RYTM          | Rhythm Pharmaceuticals Inc                |         2.97 |
+| 15 | BZ            | Kanzhun Ltd                               |         2.94 |
 | 16 | OUST          | Ouster Inc                                |         2.93 |
-| 17 | ANIP          | ANI Pharmaceuticals Inc                   |         2.9  |
-| 18 | APH           | Amphenol Corp                             |         2.9  |
-| 19 | ARQT          | Arcutis Biotherapeutics Inc               |         2.83 |
-| 20 | SOFI          | SoFi Technologies Inc                     |         2.11 |
-| 21 | LIF           | Life360 Inc                               |         2.03 |
-| 22 | TARS          | Tarsus Pharmaceuticals Inc                |         1.99 |
-| 23 | TFPM          | Triple Flag Precious Metals Corp          |         1.98 |
-| 24 | AEM           | Agnico Eagle Mines Ltd                    |         1.97 |
-| 25 | ANET          | Arista Networks Inc                       |         1.93 |
-| 26 | KNSA          | Kiniksa Pharmaceuticals International Plc |         1.93 |
-| 27 | NWG           | NatWest Group PLC                         |         1.87 |
-| 28 | ONC           | BeOne Medicines Ltd                       |         1.85 |
-| 29 | LMND          | Lemonade Inc                              |         1.84 |
-| 30 | XPEV          | XPeng Inc                                 |         1.06 |
-| 31 | RSI           | Rush Street Interactive Inc               |         1.06 |
+| 17 | APH           | Amphenol Corp                             |         2.9  |
+| 18 | ANIP          | ANI Pharmaceuticals Inc                   |         2.87 |
+| 19 | ARQT          | Arcutis Biotherapeutics Inc               |         2.76 |
+| 20 | SOFI          | SoFi Technologies Inc                     |         2.17 |
+| 21 | LIF           | Life360 Inc                               |         2.01 |
+| 22 | TFPM          | Triple Flag Precious Metals Corp          |         1.98 |
+| 23 | TARS          | Tarsus Pharmaceuticals Inc                |         1.97 |
+| 24 | ANET          | Arista Networks Inc                       |         1.94 |
+| 25 | AEM           | Agnico Eagle Mines Ltd                    |         1.94 |
+| 26 | KNSA          | Kiniksa Pharmaceuticals International Plc |         1.89 |
+| 27 | ONC           | BeOne Medicines Ltd                       |         1.81 |
+| 28 | NWG           | NatWest Group PLC                         |         1.81 |
+| 29 | LMND          | Lemonade Inc                              |         1.79 |
+| 30 | RMBS          | Rambus Inc                                |         1.09 |
+| 31 | RSI           | Rush Street Interactive Inc               |         1.07 |
 | 32 | GH            | Guardant Health Inc                       |         1.03 |
-| 33 | RMBS          | Rambus Inc                                |         1.03 |
-| 34 | KGC           | Kinross Gold Corp                         |         1.01 |
-| 35 | NVDA          | NVIDIA Corp                               |         0.99 |
-| 36 | RBLX          | ROBLOX Corp                               |         0.99 |
-| 37 | EME           | EMCOR Group Inc                           |         0.98 |
-| 38 | BAP           | Credicorp Ltd                             |         0.97 |
-| 39 | MEDP          | Medpace Holdings Inc                      |         0.97 |
+| 33 | XPEV          | XPeng Inc                                 |         1.01 |
+| 34 | RBLX          | ROBLOX Corp                               |         1    |
+| 35 | KGC           | Kinross Gold Corp                         |         0.99 |
+| 36 | EME           | EMCOR Group Inc                           |         0.98 |
+| 37 | NVDA          | NVIDIA Corp                               |         0.96 |
+| 38 | BAP           | Credicorp Ltd                             |         0.96 |
+| 39 | MEDP          | Medpace Holdings Inc                      |         0.95 |
 | 40 | PRM           | Perimeter Solutions Inc                   |         0.56 |
-| 41 | NET           | Cloudflare Inc                            |         0.51 |
+| 41 | NET           | Cloudflare Inc                            |         0.52 |
 | 42 | DOCS          | Doximity Inc                              |         0.5  |
-| 43 | VEEV          | Veeva Systems Inc                         |         0.49 |
-| 44 | ATGE          | Adtalem Global Education Inc              |         0.49 |
-| 45 | AU            | Anglogold Ashanti Plc                     |         0.49 |
-| 46 | FSS           | Federal Signal Corp                       |         0.48 |
-| 47 | PODD          | Insulet Corp                              |         0.48 |
-| 48 | IBKR          | Interactive Brokers Group Inc             |         0.47 |
-| 49 | HMY           | Harmony Gold Mining Co Ltd                |         0.45 |
+| 43 | PODD          | Insulet Corp                              |         0.48 |
+| 44 | AU            | Anglogold Ashanti Plc                     |         0.48 |
+| 45 | ATGE          | Adtalem Global Education Inc              |         0.47 |
+| 46 | FSS           | Federal Signal Corp                       |         0.47 |
+| 47 | IBKR          | Interactive Brokers Group Inc             |         0.47 |
+| 48 | VEEV          | Veeva Systems Inc                         |         0.45 |
+| 49 | HMY           | Harmony Gold Mining Co Ltd                |         0.38 |
