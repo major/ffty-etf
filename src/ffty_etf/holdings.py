@@ -1,7 +1,6 @@
 """Get the holdings of the FFTY IBD 50 ETF."""
 
 import polars as pl
-from tabulate import tabulate
 
 
 def main():
@@ -24,13 +23,14 @@ def main():
 
     # Write the holdings to markdown and CSV files
     with open("ffty.md", "w") as f:
-        f.write(
-            tabulate(
-                ffty_holdings.rows(),
-                headers=ffty_holdings.columns,
-                tablefmt="pipe",
-            )
-        )
+        # Write markdown table header
+        headers = ffty_holdings.columns
+        f.write("| " + " | ".join(headers) + " |\n")
+        f.write("|" + "|".join([":--"] * len(headers)) + "|\n")
+        
+        # Write data rows
+        for row in ffty_holdings.rows():
+            f.write("| " + " | ".join(str(cell) for cell in row) + " |\n")
 
     ffty_holdings.write_csv("ffty.csv")
 
