@@ -3,55 +3,55 @@ Just a little repository to grab the latest list of IBD 50 stocks from the FFTY 
 Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 
 ```
-| StockTicker   | SecurityName                              |
-|:--------------|:------------------------------------------|
-| WLDN          | Willdan Group Inc                         |
-| WGS           | GeneDx Holdings Corp                      |
-| TVTX          | Travere Therapeutics Inc                  |
-| TFPM          | Triple Flag Precious Metals Corp          |
-| TBBK          | Bancorp Inc/The                           |
-| TARS          | Tarsus Pharmaceuticals Inc                |
-| STNE          | StoneCo Ltd                               |
-| SOFI          | SoFi Technologies Inc                     |
-| RYTM          | Rhythm Pharmaceuticals Inc                |
-| RMBS          | Rambus Inc                                |
-| RKLB          | Rocket Lab Corp                           |
-| RIGL          | Rigel Pharmaceuticals Inc                 |
-| RDDT          | Reddit Inc                                |
-| PRM           | Perimeter Solutions Inc                   |
-| PODD          | Insulet Corp                              |
-| PAHC          | Phibro Animal Health Corp                 |
-| OUST          | Ouster Inc                                |
-| ONC           | BeOne Medicines Ltd                       |
-| MIRM          | Mirum Pharmaceuticals Inc                 |
-| MEDP          | Medpace Holdings Inc                      |
-| LIF           | Life360 Inc                               |
-| KNSA          | Kiniksa Pharmaceuticals International Plc |
-| KGC           | Kinross Gold Corp                         |
-| IREN          | IREN Ltd                                  |
-| IBKR          | Interactive Brokers Group Inc             |
-| GOOGL         | Alphabet Inc                              |
-| GH            | Guardant Health Inc                       |
-| GFI           | Gold Fields Ltd                           |
-| FUTU          | Futu Holdings Ltd                         |
-| FIX           | Comfort Systems USA Inc                   |
-| EME           | EMCOR Group Inc                           |
-| EGO           | Eldorado Gold Corp                        |
-| DOCS          | Doximity Inc                              |
-| CVNA          | Carvana Co                                |
-| CLS           | Celestica Inc                             |
-| CCJ           | Cameco Corp                               |
-| BZ            | Kanzhun Ltd                               |
-| BROS          | Dutch Bros Inc                            |
-| BAP           | Credicorp Ltd                             |
-| AU            | Anglogold Ashanti Plc                     |
-| ATGE          | Adtalem Global Education Inc              |
-| ATAT          | Atour Lifestyle Holdings Ltd              |
-| APH           | Amphenol Corp                             |
-| ANIP          | ANI Pharmaceuticals Inc                   |
-| ANET          | Arista Networks Inc                       |
-| AMSC          | American Superconductor Corp              |
-| ALAB          | Astera Labs Inc                           |
-| AGX           | Argan Inc                                 |
-| AFRM          | Affirm Holdings Inc                       |
-| AEM           | Agnico Eagle Mines Ltd                    |
+| StockTicker | SecurityName |
+|:--|:--|
+| AEM | Agnico Eagle Mines Ltd |
+| AFRM | Affirm Holdings Inc |
+| AGX | Argan Inc |
+| ALAB | Astera Labs Inc |
+| AMSC | American Superconductor Corp |
+| ANET | Arista Networks Inc |
+| ANIP | ANI Pharmaceuticals Inc |
+| APH | Amphenol Corp |
+| ATAT | Atour Lifestyle Holdings Ltd |
+| ATGE | Adtalem Global Education Inc |
+| AU | Anglogold Ashanti Plc |
+| BAP | Credicorp Ltd |
+| BROS | Dutch Bros Inc |
+| BZ | Kanzhun Ltd |
+| CCJ | Cameco Corp |
+| CLS | Celestica Inc |
+| CVNA | Carvana Co |
+| DOCS | Doximity Inc |
+| EGO | Eldorado Gold Corp |
+| EME | EMCOR Group Inc |
+| FIX | Comfort Systems USA Inc |
+| FUTU | Futu Holdings Ltd |
+| GFI | Gold Fields Ltd |
+| GH | Guardant Health Inc |
+| GOOGL | Alphabet Inc |
+| IBKR | Interactive Brokers Group Inc |
+| IREN | IREN Ltd |
+| KGC | Kinross Gold Corp |
+| KNSA | Kiniksa Pharmaceuticals International Plc |
+| LIF | Life360 Inc |
+| MEDP | Medpace Holdings Inc |
+| MIRM | Mirum Pharmaceuticals Inc |
+| ONC | BeOne Medicines Ltd |
+| OUST | Ouster Inc |
+| PAHC | Phibro Animal Health Corp |
+| PODD | Insulet Corp |
+| PRM | Perimeter Solutions Inc |
+| RDDT | Reddit Inc |
+| RIGL | Rigel Pharmaceuticals Inc |
+| RKLB | Rocket Lab Corp |
+| RMBS | Rambus Inc |
+| RYTM | Rhythm Pharmaceuticals Inc |
+| SOFI | SoFi Technologies Inc |
+| STNE | StoneCo Ltd |
+| TARS | Tarsus Pharmaceuticals Inc |
+| TBBK | Bancorp Inc/The |
+| TFPM | Triple Flag Precious Metals Corp |
+| TVTX | Travere Therapeutics Inc |
+| WGS | GeneDx Holdings Corp |
+| WLDN | Willdan Group Inc |
