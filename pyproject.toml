@@ -1,16 +1,45 @@
 [project]
 name = "ffty-etf"
 version = "0.1.0"
-description = ""
-authors = [{ name = "Major Hayden", email = "major@mhtx.net" }]
+description = "Tracker for the FFTY ETF"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = ["pandas (>=2.3.0,<3.0.0)", "tabulate (>=0.9.0,<0.10.0)"]
-
+authors = [{ name = "Major Hayden", email = "major@mhtx.net" }]
+requires-python = ">=3.13,<4.0"
+dependencies = ["polars>=1.33.1", "tabulate>=0.9.0"]
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
+requires = ["uv_build>=0.8.3,<0.9.0"]
+build-backend = "uv_build"
 
 [project.scripts]
 get-holdings = "ffty_etf.holdings:main"
+
+[dependency-groups]
+dev = ["pytest>=8.4.1"]
+
+[tool.pytest.ini_options]
+asyncio_default_fixture_loop_scope = "function"
+addopts = [
+    "--cov=ffty_etf",
+    "--cov-report=term-missing",
+    "--cov-report=html",
+    "--cov-report=xml",
+    "--cov-branch",
+    "--color=yes",
+]
+# Having problems with tests? Uncomment the following line to see more output.
+# log_cli = false
+# log_level = "DEBUG"
+log_format = "%(asctime)s %(levelname)s %(message)s"
+log_date_format = "%Y-%m-%d %H:%M:%S"
+testpaths = ["tests"]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+
+[tool.ruff]
+fix = true
+
+[tool.ruff.format]
+preview = true
