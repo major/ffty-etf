@@ -19,7 +19,7 @@ def main():
         ffty_holdings.filter(~pl.col("StockTicker").is_in(["Cash&Other", "8AMMF0JA0"]))
         .with_columns(pl.col("Weightings").str.strip_chars("%").cast(pl.Float64))
         .select(["StockTicker", "SecurityName"])
-        .sort("StockTicker", descending=True)
+        .sort("StockTicker")
     )
 
     # Write the holdings to markdown and CSV files
