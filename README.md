@@ -13,17 +13,17 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | ANIP | ANI Pharmaceuticals Inc |
 | APH | Amphenol Corp |
 | APP | AppLovin Corp |
-| ARQT | Arcutis Biotherapeutics Inc |
 | ATAT | Atour Lifestyle Holdings Ltd |
 | AU | Anglogold Ashanti Plc |
 | AVDL | Avadel Pharmaceuticals PLC |
+| BAP | Credicorp Ltd |
 | BZ | Kanzhun Ltd |
+| CCJ | Cameco Corp |
 | CLS | Celestica Inc |
-| CVNA | Carvana Co |
+| DAVE | Dave Inc |
+| DOCS | Doximity Inc |
 | EGO | Eldorado Gold Corp |
-| EME | EMCOR Group Inc |
 | FIX | Comfort Systems USA Inc |
-| FTAI | FTAI Aviation Ltd |
 | FUTU | Futu Holdings Ltd |
 | GFI | Gold Fields Ltd |
 | GOOGL | Alphabet Inc |
@@ -31,11 +31,11 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | INOD | Innodata Inc |
 | IREN | IREN Ltd |
 | KGC | Kinross Gold Corp |
-| KNSA | Kiniksa Pharmaceuticals International Plc |
 | LIF | Life360 Inc |
 | MEDP | Medpace Holdings Inc |
 | MIRM | Mirum Pharmaceuticals Inc |
-| NVDA | NVIDIA Corp |
+| MU | Micron Technology Inc |
+| NVMI | Nova Ltd |
 | ONC | BeOne Medicines Ltd |
 | OUST | Ouster Inc |
 | PAHC | Phibro Animal Health Corp |
@@ -48,10 +48,10 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | RYTM | Rhythm Pharmaceuticals Inc |
 | SOFI | SoFi Technologies Inc |
 | STNE | StoneCo Ltd |
+| STOK | Stoke Therapeutics Inc |
 | TBBK | Bancorp Inc/The |
 | TEM | Tempus AI Inc |
 | TFPM | Triple Flag Precious Metals Corp |
-| TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
 | WGS | GeneDx Holdings Corp |
 | WLDN | Willdan Group Inc |
