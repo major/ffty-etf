@@ -8,20 +8,21 @@
 | ANIP | ANI Pharmaceuticals Inc |
 | APH | Amphenol Corp |
 | APP | AppLovin Corp |
-| ATAT | Atour Lifestyle Holdings Ltd |
+| ATGE | Adtalem Global Education Inc |
 | AU | Anglogold Ashanti Plc |
 | AVDL | Avadel Pharmaceuticals PLC |
-| BAP | Credicorp Ltd |
+| BETR | Better Home & Finance Holding Co |
 | BZ | Kanzhun Ltd |
-| CCJ | Cameco Corp |
 | CLS | Celestica Inc |
 | DAVE | Dave Inc |
-| DOCS | Doximity Inc |
 | EGO | Eldorado Gold Corp |
+| EME | EMCOR Group Inc |
 | FIX | Comfort Systems USA Inc |
+| FTAI | FTAI Aviation Ltd |
 | FUTU | Futu Holdings Ltd |
 | GFI | Gold Fields Ltd |
 | GOOGL | Alphabet Inc |
+| HIMS | Hims & Hers Health Inc |
 | HOOD | Robinhood Markets Inc |
 | INOD | Innodata Inc |
 | IREN | IREN Ltd |
@@ -36,17 +37,16 @@
 | PAHC | Phibro Animal Health Corp |
 | PLTR | Palantir Technologies Inc |
 | RDDT | Reddit Inc |
-| RIGL | Rigel Pharmaceuticals Inc |
 | RIOT | Riot Platforms Inc |
 | RKLB | Rocket Lab Corp |
 | RMBS | Rambus Inc |
 | RYTM | Rhythm Pharmaceuticals Inc |
+| SITM | SiTime Corp |
 | SOFI | SoFi Technologies Inc |
+| SOUN | SoundHound AI Inc |
 | STNE | StoneCo Ltd |
 | STOK | Stoke Therapeutics Inc |
-| TBBK | Bancorp Inc/The |
-| TEM | Tempus AI Inc |
 | TFPM | Triple Flag Precious Metals Corp |
+| TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
 | WGS | GeneDx Holdings Corp |
-| WLDN | Willdan Group Inc |
