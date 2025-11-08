@@ -5,53 +5,53 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 ```
 | StockTicker | SecurityName |
 |:--|:--|
-| AAOI | Applied Optoelectronics Inc |
+| AMD | Advanced Micro Devices Inc |
 | AMSC | American Superconductor Corp |
-| ANET | Arista Networks Inc |
 | APH | Amphenol Corp |
 | APP | AppLovin Corp |
-| ARGX | Argenx SE |
 | ARQT | Arcutis Biotherapeutics Inc |
-| AU | Anglogold Ashanti Plc |
+| ATAT | Atour Lifestyle Holdings Ltd |
+| AXSM | Axsome Therapeutics Inc |
 | CAMT | Camtek Ltd/Israel |
-| CCJ | Cameco Corp |
+| CECO | CECO Environmental Corp |
 | CLS | Celestica Inc |
 | CLSK | Cleanspark Inc |
 | CRDO | Credo Technology Group Holding Ltd |
 | DAVE | Dave Inc |
-| EME | EMCOR Group Inc |
 | FIX | Comfort Systems USA Inc |
+| FN | Fabrinet |
 | FUTU | Futu Holdings Ltd |
 | GH | Guardant Health Inc |
-| GOOGL | Alphabet Inc |
 | HOOD | Robinhood Markets Inc |
-| INOD | Innodata Inc |
+| HWM | Howmet Aerospace Inc |
+| IBKR | Interactive Brokers Group Inc |
+| INSM | Insmed Inc |
+| KGC | Kinross Gold Corp |
 | KRMN | Karman Holdings Inc |
-| LIF | Life360 Inc |
-| MPWR | Monolithic Power Systems Inc |
+| LMND | Lemonade Inc |
 | MU | Micron Technology Inc |
+| NET | Cloudflare Inc |
+| NTRA | Natera Inc |
 | NVDA | NVIDIA Corp |
 | NVMI | Nova Ltd |
+| NVT | nVent Electric PLC |
 | NXT | NEXTracker Inc |
-| OUST | Ouster Inc |
 | PAHC | Phibro Animal Health Corp |
 | PLTR | Palantir Technologies Inc |
+| RIGL | Rigel Pharmaceuticals Inc |
 | RIOT | Riot Platforms Inc |
 | RKLB | Rocket Lab Corp |
 | RMBS | Rambus Inc |
-| RYTM | Rhythm Pharmaceuticals Inc |
 | SEI | Solaris Energy Infrastructure Inc |
-| SHOP | Shopify Inc |
+| SNOW | Snowflake Inc |
 | SOFI | SoFi Technologies Inc |
-| SOUN | SoundHound AI Inc |
 | STNE | StoneCo Ltd |
-| STOK | Stoke Therapeutics Inc |
+| STRL | Sterling Infrastructure Inc |
 | SYM | Symbotic Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
-| TEM | Tempus AI Inc |
-| TMDX | TransMedics Group Inc |
 | TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
 | VRT | Vertiv Holdings Co |
 | WGS | GeneDx Holdings Corp |
+| WULF | Terawulf Inc |
 | ZS | Zscaler Inc |
