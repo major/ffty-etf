@@ -30,7 +30,7 @@
 | NVDA | NVIDIA Corp |
 | NVMI | Nova Ltd |
 | NVT | nVent Electric PLC |
-| NXT | NEXTracker Inc |
+| NXT | Nextpower Inc |
 | PAHC | Phibro Animal Health Corp |
 | PLTR | Palantir Technologies Inc |
 | RIGL | Rigel Pharmaceuticals Inc |
