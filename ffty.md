@@ -1,52 +1,52 @@
 | StockTicker | SecurityName |
 |:--|:--|
+| AEM | Agnico Eagle Mines Ltd |
+| AGI | Alamos Gold Inc |
 | AMD | Advanced Micro Devices Inc |
-| AMSC | American Superconductor Corp |
 | APH | Amphenol Corp |
-| APP | AppLovin Corp |
+| ARGX | Argenx SE |
 | ARQT | Arcutis Biotherapeutics Inc |
-| ATAT | Atour Lifestyle Holdings Ltd |
+| AU | Anglogold Ashanti Plc |
 | AXSM | Axsome Therapeutics Inc |
-| CAMT | Camtek Ltd/Israel |
-| CECO | CECO Environmental Corp |
 | CLS | Celestica Inc |
-| CLSK | Cleanspark Inc |
 | CRDO | Credo Technology Group Holding Ltd |
 | DAVE | Dave Inc |
+| EGO | Eldorado Gold Corp |
 | FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
 | FUTU | Futu Holdings Ltd |
+| GFI | Gold Fields Ltd |
 | GH | Guardant Health Inc |
+| HL | Hecla Mining Co |
+| HMY | Harmony Gold Mining Co Ltd |
 | HOOD | Robinhood Markets Inc |
 | HWM | Howmet Aerospace Inc |
 | IBKR | Interactive Brokers Group Inc |
 | INSM | Insmed Inc |
 | KGC | Kinross Gold Corp |
-| KRMN | Karman Holdings Inc |
+| LLY | Eli Lilly & Co |
 | LMND | Lemonade Inc |
 | MU | Micron Technology Inc |
-| NET | Cloudflare Inc |
+| NEM | Newmont Corp |
 | NTRA | Natera Inc |
-| NVDA | NVIDIA Corp |
-| NVMI | Nova Ltd |
 | NVT | nVent Electric PLC |
 | NXT | Nextpower Inc |
+| ONC | BeOne Medicines Ltd |
 | PAHC | Phibro Animal Health Corp |
 | PLTR | Palantir Technologies Inc |
-| RIGL | Rigel Pharmaceuticals Inc |
-| RIOT | Riot Platforms Inc |
-| RKLB | Rocket Lab Corp |
 | RMBS | Rambus Inc |
 | SEI | Solaris Energy Infrastructure Inc |
+| SITM | SiTime Corp |
 | SNOW | Snowflake Inc |
 | SOFI | SoFi Technologies Inc |
-| STNE | StoneCo Ltd |
 | STRL | Sterling Infrastructure Inc |
 | SYM | Symbotic Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
+| TFPM | Triple Flag Precious Metals Corp |
 | TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
 | VRT | Vertiv Holdings Co |
 | WGS | GeneDx Holdings Corp |
-| WULF | Terawulf Inc |
+| WPM | Wheaton Precious Metals Corp |
+| XPEV | XPeng Inc |
 | ZS | Zscaler Inc |
