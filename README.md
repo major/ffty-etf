@@ -7,51 +7,51 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 |:--|:--|
 | AEM | Agnico Eagle Mines Ltd |
 | AGI | Alamos Gold Inc |
+| ALNY | Alnylam Pharmaceuticals Inc |
 | AMD | Advanced Micro Devices Inc |
+| ANAB | AnaptysBio Inc |
 | APH | Amphenol Corp |
 | ARGX | Argenx SE |
 | ARQT | Arcutis Biotherapeutics Inc |
 | AU | Anglogold Ashanti Plc |
+| AVGO | Broadcom Inc |
 | AXSM | Axsome Therapeutics Inc |
+| B | Barrick Mining Corp |
+| BVN | Cia de Minas Buenaventura SAA |
+| CECO | CECO Environmental Corp |
 | CLS | Celestica Inc |
-| CRDO | Credo Technology Group Holding Ltd |
-| DAVE | Dave Inc |
+| CTRE | CareTrust REIT Inc |
+| DDOG | Datadog Inc |
 | EGO | Eldorado Gold Corp |
 | FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
-| FUTU | Futu Holdings Ltd |
 | GFI | Gold Fields Ltd |
 | GH | Guardant Health Inc |
-| HL | Hecla Mining Co |
-| HMY | Harmony Gold Mining Co Ltd |
-| HOOD | Robinhood Markets Inc |
+| GOOGL | Alphabet Inc |
 | HWM | Howmet Aerospace Inc |
-| IBKR | Interactive Brokers Group Inc |
 | INSM | Insmed Inc |
 | KGC | Kinross Gold Corp |
+| KRYS | Krystal Biotech Inc |
 | LLY | Eli Lilly & Co |
 | LMND | Lemonade Inc |
 | MU | Micron Technology Inc |
 | NEM | Newmont Corp |
 | NTRA | Natera Inc |
+| NVDA | NVIDIA Corp |
 | NVT | nVent Electric PLC |
 | NXT | Nextpower Inc |
 | ONC | BeOne Medicines Ltd |
-| PAHC | Phibro Animal Health Corp |
-| PLTR | Palantir Technologies Inc |
-| RMBS | Rambus Inc |
-| SEI | Solaris Energy Infrastructure Inc |
-| SITM | SiTime Corp |
+| PACS | PACS Group Inc |
+| RIGL | Rigel Pharmaceuticals Inc |
+| RL | Ralph Lauren Corp |
 | SNOW | Snowflake Inc |
-| SOFI | SoFi Technologies Inc |
-| STRL | Sterling Infrastructure Inc |
-| SYM | Symbotic Inc |
+| SPXC | SPX Technologies Inc |
+| STOK | Stoke Therapeutics Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
 | TFPM | Triple Flag Precious Metals Corp |
-| TSM | Taiwan Semiconductor Manufacturing Co Ltd |
+| TMDX | TransMedics Group Inc |
 | TVTX | Travere Therapeutics Inc |
 | VRT | Vertiv Holdings Co |
 | WGS | GeneDx Holdings Corp |
 | WPM | Wheaton Precious Metals Corp |
-| XPEV | XPeng Inc |
-| ZS | Zscaler Inc |
+| ZYME | Zymeworks Inc |
