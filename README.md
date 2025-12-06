@@ -6,52 +6,52 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | StockTicker | SecurityName |
 |:--|:--|
 | AEM | Agnico Eagle Mines Ltd |
+| AG | First Majestic Silver Corp |
 | AGI | Alamos Gold Inc |
-| ALHC | Alignment Healthcare Inc |
 | ANAB | AnaptysBio Inc |
 | APH | Amphenol Corp |
+| APP | AppLovin Corp |
 | ARGX | Argenx SE |
 | ARQT | Arcutis Biotherapeutics Inc |
+| ATAT | Atour Lifestyle Holdings Ltd |
 | AU | Anglogold Ashanti Plc |
-| AVGO | Broadcom Inc |
+| AUGO | Aura Minerals Inc |
 | AXSM | Axsome Therapeutics Inc |
-| B | Barrick Mining Corp |
-| BLLN | Billiontoone Inc |
-| BVN | Cia de Minas Buenaventura SAA |
 | CLS | Celestica Inc |
-| COCO | Vita Coco Co Inc/The |
 | CRDO | Credo Technology Group Holding Ltd |
 | EGO | Eldorado Gold Corp |
 | FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
 | GFI | Gold Fields Ltd |
 | GH | Guardant Health Inc |
-| GMED | Globus Medical Inc |
 | GOOGL | Alphabet Inc |
+| HL | Hecla Mining Co |
 | HMY | Harmony Gold Mining Co Ltd |
-| HWM | Howmet Aerospace Inc |
+| HOOD | Robinhood Markets Inc |
+| IAG | IAMGOLD Corp |
 | INSM | Insmed Inc |
 | KGC | Kinross Gold Corp |
 | LLY | Eli Lilly & Co |
-| LMND | Lemonade Inc |
+| MDB | MongoDB Inc |
+| MPWR | Monolithic Power Systems Inc |
 | MU | Micron Technology Inc |
-| NEM | Newmont Corp |
 | NTRA | Natera Inc |
+| NVMI | Nova Ltd |
 | NVT | nVent Electric PLC |
-| NXT | Nextpower Inc |
-| ONC | BeOne Medicines Ltd |
 | PACS | PACS Group Inc |
 | RDDT | Reddit Inc |
 | RIGL | Rigel Pharmaceuticals Inc |
 | RL | Ralph Lauren Corp |
+| RMBS | Rambus Inc |
 | SEI | Solaris Energy Infrastructure Inc |
-| SNOW | Snowflake Inc |
+| SITM | SiTime Corp |
 | SOFI | SoFi Technologies Inc |
-| SPXC | SPX Technologies Inc |
 | STOK | Stoke Therapeutics Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
 | TFPM | Triple Flag Precious Metals Corp |
 | TMDX | TransMedics Group Inc |
+| TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
+| VRT | Vertiv Holdings Co |
 | WGS | GeneDx Holdings Corp |
 | ZYME | Zymeworks Inc |
