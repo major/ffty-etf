@@ -5,7 +5,6 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 ```
 | StockTicker | SecurityName |
 |:--|:--|
-| AEM | Agnico Eagle Mines Ltd |
 | AG | First Majestic Silver Corp |
 | AGI | Alamos Gold Inc |
 | ANAB | AnaptysBio Inc |
@@ -13,39 +12,40 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | APP | AppLovin Corp |
 | ARGX | Argenx SE |
 | ARQT | Arcutis Biotherapeutics Inc |
-| ATAT | Atour Lifestyle Holdings Ltd |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
 | AXSM | Axsome Therapeutics Inc |
 | CLS | Celestica Inc |
 | CRDO | Credo Technology Group Holding Ltd |
+| CVNA | Carvana Co |
 | EGO | Eldorado Gold Corp |
+| FIVE | Five Below Inc |
 | FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
+| FUTU | Futu Holdings Ltd |
 | GFI | Gold Fields Ltd |
 | GH | Guardant Health Inc |
-| GOOGL | Alphabet Inc |
 | HL | Hecla Mining Co |
 | HMY | Harmony Gold Mining Co Ltd |
 | HOOD | Robinhood Markets Inc |
+| HROW | Harrow Inc |
 | IAG | IAMGOLD Corp |
-| INSM | Insmed Inc |
+| JBL | Jabil Inc |
 | KGC | Kinross Gold Corp |
-| LLY | Eli Lilly & Co |
 | MDB | MongoDB Inc |
-| MPWR | Monolithic Power Systems Inc |
 | MU | Micron Technology Inc |
 | NTRA | Natera Inc |
+| NUTX | Nutex Health Inc |
 | NVMI | Nova Ltd |
 | NVT | nVent Electric PLC |
 | PACS | PACS Group Inc |
+| PLTR | Palantir Technologies Inc |
 | RDDT | Reddit Inc |
-| RIGL | Rigel Pharmaceuticals Inc |
+| RKLB | Rocket Lab Corp |
 | RL | Ralph Lauren Corp |
 | RMBS | Rambus Inc |
 | SEI | Solaris Energy Infrastructure Inc |
 | SITM | SiTime Corp |
-| SOFI | SoFi Technologies Inc |
 | STOK | Stoke Therapeutics Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
 | TFPM | Triple Flag Precious Metals Corp |
