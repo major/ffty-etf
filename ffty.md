@@ -1,52 +1,52 @@
 | StockTicker | SecurityName |
 |:--|:--|
+| AEM | Agnico Eagle Mines Ltd |
 | AG | First Majestic Silver Corp |
 | AGI | Alamos Gold Inc |
+| ALHC | Alignment Healthcare Inc |
 | ANAB | AnaptysBio Inc |
-| APH | Amphenol Corp |
 | APP | AppLovin Corp |
-| ARGX | Argenx SE |
 | ARQT | Arcutis Biotherapeutics Inc |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
 | AXSM | Axsome Therapeutics Inc |
-| CLS | Celestica Inc |
-| CRDO | Credo Technology Group Holding Ltd |
+| B | Barrick Mining Corp |
+| BVN | Cia de Minas Buenaventura SAA |
+| CDE | COEUR MINING INC. |
+| CECO | CECO Environmental Corp |
 | CVNA | Carvana Co |
 | EGO | Eldorado Gold Corp |
 | FIVE | Five Below Inc |
-| FIX | Comfort Systems USA Inc |
-| FN | Fabrinet |
-| FUTU | Futu Holdings Ltd |
 | GFI | Gold Fields Ltd |
 | GH | Guardant Health Inc |
+| GMED | Globus Medical Inc |
+| GOOGL | Alphabet Inc |
 | HL | Hecla Mining Co |
 | HMY | Harmony Gold Mining Co Ltd |
-| HOOD | Robinhood Markets Inc |
-| HROW | Harrow Inc |
 | IAG | IAMGOLD Corp |
-| JBL | Jabil Inc |
 | KGC | Kinross Gold Corp |
+| KROS | Keros Therapeutics Inc |
+| KRYS | Krystal Biotech Inc |
+| LLY | Eli Lilly & Co |
+| LMND | Lemonade Inc |
 | MDB | MongoDB Inc |
 | MU | Micron Technology Inc |
+| NEM | Newmont Corp |
 | NTRA | Natera Inc |
 | NUTX | Nutex Health Inc |
-| NVMI | Nova Ltd |
-| NVT | nVent Electric PLC |
+| OR | OR Royalties Inc |
+| PAAS | Pan American Silver Corp |
 | PACS | PACS Group Inc |
-| PLTR | Palantir Technologies Inc |
 | RDDT | Reddit Inc |
-| RKLB | Rocket Lab Corp |
+| RGLD | Royal Gold Inc |
+| RIGL | Rigel Pharmaceuticals Inc |
 | RL | Ralph Lauren Corp |
-| RMBS | Rambus Inc |
-| SEI | Solaris Energy Infrastructure Inc |
+| RYTM | Rhythm Pharmaceuticals Inc |
 | SITM | SiTime Corp |
 | STOK | Stoke Therapeutics Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
 | TFPM | Triple Flag Precious Metals Corp |
-| TMDX | TransMedics Group Inc |
-| TSM | Taiwan Semiconductor Manufacturing Co Ltd |
+| TPRFF | ARIS MNG CORP |
 | TVTX | Travere Therapeutics Inc |
-| VRT | Vertiv Holdings Co |
-| WGS | GeneDx Holdings Corp |
+| WPM | Wheaton Precious Metals Corp |
 | ZYME | Zymeworks Inc |
