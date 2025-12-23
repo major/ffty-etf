@@ -6,6 +6,7 @@
 | ALHC | Alignment Healthcare Inc |
 | ANAB | AnaptysBio Inc |
 | APP | AppLovin Corp |
+| ARMN | ARIS MNG CORP |
 | ARQT | Arcutis Biotherapeutics Inc |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
@@ -46,7 +47,6 @@
 | STOK | Stoke Therapeutics Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
 | TFPM | Triple Flag Precious Metals Corp |
-| TPRFF | ARIS MNG CORP |
 | TVTX | Travere Therapeutics Inc |
 | WPM | Wheaton Precious Metals Corp |
 | ZYME | Zymeworks Inc |
