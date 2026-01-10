@@ -9,21 +9,21 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | AG | First Majestic Silver Corp |
 | AGI | Alamos Gold Inc |
 | ANAB | AnaptysBio Inc |
-| APP | AppLovin Corp |
+| APH | Amphenol Corp |
 | ARMN | ARIS MNG CORP |
 | ARQT | Arcutis Biotherapeutics Inc |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
 | AXSM | Axsome Therapeutics Inc |
 | CDE | COEUR MINING INC. |
-| CECO | CECO Environmental Corp |
 | CVNA | Carvana Co |
 | DAVE | Dave Inc |
 | DY | Dycom Industries Inc |
-| EGO | Eldorado Gold Corp |
 | FIVE | Five Below Inc |
+| FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
 | FTAI | FTAI Aviation Ltd |
+| FUTU | Futu Holdings Ltd |
 | GFI | Gold Fields Ltd |
 | GH | Guardant Health Inc |
 | HL | Hecla Mining Co |
@@ -32,7 +32,7 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | HWM | Howmet Aerospace Inc |
 | IAG | IAMGOLD Corp |
 | KGC | Kinross Gold Corp |
-| KROS | Keros Therapeutics Inc |
+| KRMN | Karman Holdings Inc |
 | LLY | Eli Lilly & Co |
 | LMND | Lemonade Inc |
 | MDB | MongoDB Inc |
@@ -46,12 +46,12 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | PLTR | Palantir Technologies Inc |
 | RDDT | Reddit Inc |
 | RKLB | Rocket Lab Corp |
-| RL | Ralph Lauren Corp |
-| SITM | SiTime Corp |
+| SEI | Solaris Energy Infrastructure Inc |
 | STOK | Stoke Therapeutics Inc |
 | TARS | Tarsus Pharmaceuticals Inc |
 | TFPM | Triple Flag Precious Metals Corp |
 | TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
+| VRT | Vertiv Holdings Co |
 | WPM | Wheaton Precious Metals Corp |
 | ZYME | Zymeworks Inc |
