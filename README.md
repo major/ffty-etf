@@ -9,8 +9,6 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | AEM | Agnico Eagle Mines Ltd |
 | AG | First Majestic Silver Corp |
 | AGI | Alamos Gold Inc |
-| ALAB | Astera Labs Inc |
-| ALHC | Alignment Healthcare Inc |
 | ANAB | AnaptysBio Inc |
 | APH | Amphenol Corp |
 | APLD | Applied Digital Corp |
@@ -18,36 +16,38 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
 | AXSM | Axsome Therapeutics Inc |
+| BVN | Cia de Minas Buenaventura SAA |
 | CDE | COEUR MINING INC. |
 | CLS | Celestica Inc |
 | DY | Dycom Industries Inc |
 | EGO | Eldorado Gold Corp |
-| FIVE | Five Below Inc |
+| EQX | Equinox Gold Corp |
 | FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
+| FNV | Franco-Nevada Corp |
 | FTAI | FTAI Aviation Ltd |
 | GFI | Gold Fields Ltd |
 | GH | Guardant Health Inc |
 | HL | Hecla Mining Co |
 | HMY | Harmony Gold Mining Co Ltd |
-| HWM | Howmet Aerospace Inc |
 | IAG | IAMGOLD Corp |
-| IBKR | Interactive Brokers Group Inc |
 | KGC | Kinross Gold Corp |
 | KRMN | Karman Holdings Inc |
 | LMND | Lemonade Inc |
+| MDB | MongoDB Inc |
 | MIRM | Mirum Pharmaceuticals Inc |
+| MPWR | Monolithic Power Systems Inc |
 | MU | Micron Technology Inc |
 | NEM | Newmont Corp |
 | NTRA | Natera Inc |
 | NVMI | Nova Ltd |
 | OR | OR Royalties Inc |
 | ORLA | Orla Mining Ltd |
-| PACS | PACS Group Inc |
+| PAAS | Pan American Silver Corp |
 | RGLD | Royal Gold Inc |
 | RKLB | Rocket Lab Corp |
 | RMBS | Rambus Inc |
-| SEI | Solaris Energy Infrastructure Inc |
+| SCCO | Southern Copper Corp |
 | SITM | SiTime Corp |
 | STRL | Sterling Infrastructure Inc |
 | TFPM | Triple Flag Precious Metals Corp |
