@@ -8,50 +8,50 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | AAOI | Applied Optoelectronics Inc |
 | AEM | Agnico Eagle Mines Ltd |
 | AG | First Majestic Silver Corp |
-| AGI | Alamos Gold Inc |
+| ALHC | Alignment Healthcare Inc |
+| AMTM | Amentum Holdings Inc |
 | ANAB | AnaptysBio Inc |
-| APH | Amphenol Corp |
 | APLD | Applied Digital Corp |
 | ARMN | ARIS MNG CORP |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
 | AXSM | Axsome Therapeutics Inc |
+| B | Barrick Mining Corp |
 | BVN | Cia de Minas Buenaventura SAA |
 | CDE | COEUR MINING INC. |
-| CLS | Celestica Inc |
 | DY | Dycom Industries Inc |
 | EGO | Eldorado Gold Corp |
 | EQX | Equinox Gold Corp |
+| FIVE | Five Below Inc |
 | FIX | Comfort Systems USA Inc |
-| FN | Fabrinet |
-| FNV | Franco-Nevada Corp |
 | FTAI | FTAI Aviation Ltd |
 | GFI | Gold Fields Ltd |
-| GH | Guardant Health Inc |
+| GOOGL | Alphabet Inc |
 | HL | Hecla Mining Co |
 | HMY | Harmony Gold Mining Co Ltd |
+| HROW | Harrow Inc |
 | IAG | IAMGOLD Corp |
 | KGC | Kinross Gold Corp |
 | KRMN | Karman Holdings Inc |
-| LMND | Lemonade Inc |
-| MDB | MongoDB Inc |
+| KRYS | Krystal Biotech Inc |
+| LITE | Lumentum Holdings Inc |
+| LLY | Eli Lilly & Co |
 | MIRM | Mirum Pharmaceuticals Inc |
 | MPWR | Monolithic Power Systems Inc |
 | MU | Micron Technology Inc |
 | NEM | Newmont Corp |
-| NTRA | Natera Inc |
+| NSSC | Napco Security Technologies Inc |
 | NVMI | Nova Ltd |
+| NVT | nVent Electric PLC |
 | OR | OR Royalties Inc |
 | ORLA | Orla Mining Ltd |
 | PAAS | Pan American Silver Corp |
 | RGLD | Royal Gold Inc |
 | RKLB | Rocket Lab Corp |
-| RMBS | Rambus Inc |
 | SCCO | Southern Copper Corp |
-| SITM | SiTime Corp |
 | STRL | Sterling Infrastructure Inc |
-| TFPM | Triple Flag Precious Metals Corp |
-| TMDX | TransMedics Group Inc |
 | TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | VRT | Vertiv Holdings Co |
 | WPM | Wheaton Precious Metals Corp |
+| WT | WisdomTree Inc |
+| WWD | Woodward Inc |
