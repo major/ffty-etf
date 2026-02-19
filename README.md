@@ -10,7 +10,7 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | AG | First Majestic Silver Corp |
 | ANAB | AnaptysBio Inc |
 | APLD | Applied Digital Corp |
-| ARMN | ARIS MNG CORP |
+| ARIS | ARIS MNG CORP |
 | ASML | ASML Holding NV |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
