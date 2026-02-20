@@ -5,7 +5,7 @@
 | AG | First Majestic Silver Corp |
 | ANAB | AnaptysBio Inc |
 | APLD | Applied Digital Corp |
-| ARIS | ARIS MNG CORP |
+| ARIS | ARIS MINING CORPORATION |
 | ASML | ASML Holding NV |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
