@@ -5,17 +5,15 @@
 | AG | First Majestic Silver Corp |
 | ANAB | AnaptysBio Inc |
 | ARIS | ARIS MINING CORPORATION |
-| AROC | Archrock Inc |
 | ASML | ASML Holding NV |
 | AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
-| AXSM | Axsome Therapeutics Inc |
 | BAP | Credicorp Ltd |
 | BVN | Cia de Minas Buenaventura SAA |
 | CDE | COEUR MINING INC. |
-| CECO | CECO Environmental Corp |
+| CIFR | Cipher Digital Inc |
 | DY | Dycom Industries Inc |
-| ECG | Everus Construction Group Inc |
+| ECO | Okeanis Eco Tankers Corp |
 | EGO | Eldorado Gold Corp |
 | EQX | Equinox Gold Corp |
 | FIVE | Five Below Inc |
@@ -23,26 +21,28 @@
 | FN | Fabrinet |
 | FTAI | FTAI Aviation Ltd |
 | GFI | Gold Fields Ltd |
+| HL | Hecla Mining Co |
 | HROW | Harrow Inc |
+| HUT | HUT 8 CORP |
 | HWM | Howmet Aerospace Inc |
 | IAG | IAMGOLD Corp |
 | KGC | Kinross Gold Corp |
-| KNSA | Kiniksa Pharmaceuticals International Plc |
-| KRYS | Krystal Biotech Inc |
 | LITE | Lumentum Holdings Inc |
 | MIRM | Mirum Pharmaceuticals Inc |
 | MOD | Modine Manufacturing Co |
 | MTSI | MACOM Technology Solutions Holdings Inc |
 | MU | Micron Technology Inc |
 | NEM | Newmont Corp |
-| NVT | nVent Electric PLC |
-| OR | OR Royalties Inc |
+| NSSC | Napco Security Technologies Inc |
 | ORLA | Orla Mining Ltd |
-| PAAS | Pan American Silver Corp |
 | PACS | PACS Group Inc |
 | RGLD | Royal Gold Inc |
+| RIOT | Riot Platforms Inc |
 | SCCO | Southern Copper Corp |
+| SEI | Solaris Energy Infrastructure Inc |
+| SII | Sprott Inc |
 | SITM | SiTime Corp |
+| STOK | Stoke Therapeutics Inc |
 | STRL | Sterling Infrastructure Inc |
 | TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | UI | Ubiquiti Inc |
