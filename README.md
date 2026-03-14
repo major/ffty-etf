@@ -9,7 +9,7 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | AG | First Majestic Silver Corp |
 | AGI | Alamos Gold Inc |
 | ANAB | AnaptysBio Inc |
-| APG | API Group Corp |
+| ANET | Arista Networks Inc |
 | ARIS | ARIS MINING CORPORATION |
 | ASML | ASML Holding NV |
 | ASND | Ascendis Pharma A/S |
@@ -17,41 +17,41 @@ Prefer a CSV? Just grab [ffty.csv](ffty.csv)
 | AUGO | Aura Minerals Inc |
 | BAP | Credicorp Ltd |
 | BVN | Cia de Minas Buenaventura SAA |
-| CDE | COEUR MINING INC. |
+| CNR | Core Natural Resources Inc |
+| CTRE | CareTrust REIT Inc |
 | DAVE | Dave Inc |
+| DGII | Digi International Inc |
 | ECO | Okeanis Eco Tankers Corp |
 | EQX | Equinox Gold Corp |
 | FIVE | Five Below Inc |
 | FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
 | FNV | Franco-Nevada Corp |
-| FTAI | FTAI Aviation Ltd |
 | HWM | Howmet Aerospace Inc |
 | IAG | IAMGOLD Corp |
-| KGC | Kinross Gold Corp |
 | KNSA | Kiniksa Pharmaceuticals International Plc |
+| LB | Landbridge Co LLC |
 | LITE | Lumentum Holdings Inc |
+| LQDA | Liquidia Corp |
 | MOD | Modine Manufacturing Co |
-| MPWR | Monolithic Power Systems Inc |
-| MTSI | MACOM Technology Solutions Holdings Inc |
 | MU | Micron Technology Inc |
-| NEM | Newmont Corp |
+| NET | Cloudflare Inc |
+| NSSC | Napco Security Technologies Inc |
 | ORLA | Orla Mining Ltd |
 | PAAS | Pan American Silver Corp |
 | PWR | Quanta Services Inc |
-| RGLD | Royal Gold Inc |
-| ROAD | Construction Partners Inc |
+| ROST | Ross Stores Inc |
+| RSI | Rush Street Interactive Inc |
 | SCCO | Southern Copper Corp |
+| SEI | Solaris Energy Infrastructure Inc |
 | SII | Sprott Inc |
-| SITM | SiTime Corp |
 | STOK | Stoke Therapeutics Inc |
 | STRL | Sterling Infrastructure Inc |
-| TARS | Tarsus Pharmaceuticals Inc |
 | TFPM | Triple Flag Precious Metals Corp |
-| TMDX | TransMedics Group Inc |
 | TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | UI | Ubiquiti Inc |
+| VIST | Vista Energy SAB de CV |
 | VRT | Vertiv Holdings Co |
+| WELL | Welltower Inc |
 | WPM | Wheaton Precious Metals Corp |
-| WT | WisdomTree Inc |
 | WWD | Woodward Inc |
