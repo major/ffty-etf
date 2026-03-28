@@ -1,26 +1,27 @@
 | StockTicker | SecurityName |
 |:--|:--|
+| AMD | Advanced Micro Devices Inc |
 | ANAB | AnaptysBio Inc |
-| ANET | Arista Networks Inc |
+| ARM | ARM Holdings PLC |
 | AROC | Archrock Inc |
-| ASND | Ascendis Pharma A/S |
-| AUGO | Aura Minerals Inc |
+| ASML | ASML Holding NV |
 | BWXT | BWX Technologies Inc |
-| CAVA | Cava Group Inc |
 | CM | Canadian Imperial Bank of Commerce |
 | CNR | Core Natural Resources Inc |
-| CTRE | CareTrust REIT Inc |
 | CW | Curtiss-Wright Corp |
-| DAVE | Dave Inc |
 | DGII | Digi International Inc |
 | ECG | Everus Construction Group Inc |
 | ECO | Okeanis Eco Tankers Corp |
+| ENSG | Ensign Group Inc/The |
 | FIVE | Five Below Inc |
 | FIX | Comfort Systems USA Inc |
-| FPS | Forgent Power Solutions Inc |
+| FN | Fabrinet |
 | GCT | GigaCloud Technology Inc |
+| HUBB | Hubbell Inc |
+| HUT | HUT 8 CORP |
 | HWM | Howmet Aerospace Inc |
 | ISSC | Innovative Solutions and Support Inc |
+| ITT | ITT Inc |
 | KNSA | Kiniksa Pharmaceuticals International Plc |
 | KRMN | Karman Holdings Inc |
 | LB | Landbridge Co LLC |
@@ -28,14 +29,13 @@
 | LSCC | Lattice Semiconductor Corp |
 | MOD | Modine Manufacturing Co |
 | MRVL | MARVELL TECHNOLOGY INC |
+| MTSI | MACOM Technology Solutions Holdings Inc |
 | MTZ | MasTec Inc |
-| MU | Micron Technology Inc |
 | NET | Cloudflare Inc |
-| NSSC | Napco Security Technologies Inc |
 | NVMI | Nova Ltd |
 | NXT | Nextpower Inc |
 | NYT | New York Times Co/The |
-| PKE | Park Aerospace Corp |
+| OSW | OneSpaWorld Holdings Ltd |
 | PWR | Quanta Services Inc |
 | ROST | Ross Stores Inc |
 | RSI | Rush Street Interactive Inc |
@@ -45,8 +45,8 @@
 | STRL | Sterling Infrastructure Inc |
 | TSEM | Tower Semiconductor Ltd |
 | UI | Ubiquiti Inc |
+| VG | Venture Global Inc |
 | VIST | Vista Energy SAB de CV |
 | VNOM | Viper Energy Inc |
 | VRT | Vertiv Holdings Co |
-| WELL | Welltower Inc |
 | WWD | Woodward Inc |
