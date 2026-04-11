@@ -1,52 +1,52 @@
 | StockTicker | SecurityName |
 |:--|:--|
+| AEM | Agnico Eagle Mines Ltd |
+| AGI | Alamos Gold Inc |
 | AGX | Argan Inc |
-| ARM | ARM Holdings PLC |
-| AROC | Archrock Inc |
-| ASND | Ascendis Pharma A/S |
+| AMD | Advanced Micro Devices Inc |
+| ANAB | AnaptysBio Inc |
+| ANET | Arista Networks Inc |
+| ARIS | ARIS MINING CORPORATION |
+| AU | Anglogold Ashanti Plc |
 | AUGO | Aura Minerals Inc |
+| AXSM | Axsome Therapeutics Inc |
 | BAP | Credicorp Ltd |
 | BBIO | Bridgebio Pharma Inc |
-| BWXT | BWX Technologies Inc |
-| CNR | Core Natural Resources Inc |
+| BVN | Cia de Minas Buenaventura SAA |
+| CF | CF Industries Holdings Inc |
 | CW | Curtiss-Wright Corp |
-| DGII | Digi International Inc |
-| DOCN | DigitalOcean Holdings Inc |
-| ECG | Everus Construction Group Inc |
+| DY | Dycom Industries Inc |
 | ECO | Okeanis Eco Tankers Corp |
 | FIVE | Five Below Inc |
 | FIX | Comfort Systems USA Inc |
 | FN | Fabrinet |
-| GCT | GigaCloud Technology Inc |
-| HASI | HA Sustainable Infrastructure Capital Inc |
-| HLT | Hilton Worldwide Holdings Inc |
+| FNV | Franco-Nevada Corp |
+| HUT | HUT 8 CORP |
+| HWM | Howmet Aerospace Inc |
+| KGC | Kinross Gold Corp |
 | KNSA | Kiniksa Pharmaceuticals International Plc |
 | LB | Landbridge Co LLC |
 | LITE | Lumentum Holdings Inc |
 | LQDA | Liquidia Corp |
-| LSCC | Lattice Semiconductor Corp |
+| MIRM | Mirum Pharmaceuticals Inc |
 | MOD | Modine Manufacturing Co |
+| MPWR | Monolithic Power Systems Inc |
 | MRVL | MARVELL TECHNOLOGY INC |
 | MRX | Marex Group PLC |
-| MTZ | MasTec Inc |
-| NET | Cloudflare Inc |
-| NXT | Nextpower Inc |
-| NYT | New York Times Co/The |
-| OKE | ONEOK Inc |
-| OSW | OneSpaWorld Holdings Ltd |
-| PWR | Quanta Services Inc |
-| ROST | Ross Stores Inc |
-| RSI | Rush Street Interactive Inc |
-| SBS | CIA SANEAMENTO BASICO SPONSORED ADR |
+| MTSI | MACOM Technology Solutions Holdings Inc |
+| MU | Micron Technology Inc |
+| NEM | Newmont Corp |
+| ORLA | Orla Mining Ltd |
+| PAHC | Phibro Animal Health Corp |
+| SCCO | Southern Copper Corp |
 | SEI | Solaris Energy Infrastructure Inc |
 | SII | Sprott Inc |
-| SNEX | StoneX Group Inc |
-| SQM | Sociedad Quimica y Minera de Chile SA |
-| TARS | Tarsus Pharmaceuticals Inc |
-| TSEM | Tower Semiconductor Ltd |
+| SITM | SiTime Corp |
+| STRL | Sterling Infrastructure Inc |
+| TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
 | UI | Ubiquiti Inc |
-| VG | Venture Global Inc |
 | VIST | Vista Energy SAB de CV |
-| VNOM | Viper Energy Inc |
 | VRT | Vertiv Holdings Co |
+| WPM | Wheaton Precious Metals Corp |
+| WWD | Woodward Inc |
