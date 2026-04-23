@@ -43,7 +43,6 @@
 | SII | Sprott Inc |
 | SITM | SiTime Corp |
 | STRL | Sterling Infrastructure Inc |
-| TRAX | First Tracks Biotherapeutics Inc |
 | TSM | Taiwan Semiconductor Manufacturing Co Ltd |
 | TVTX | Travere Therapeutics Inc |
 | UI | Ubiquiti Inc |
