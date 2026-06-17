@@ -15,7 +15,7 @@ build-backend = "uv_build"
 get-holdings = "ffty_etf.holdings:main"
 
 [dependency-groups]
-dev = ["pytest>=8.4.1"]
+dev = ["pytest>=9.0.3"]
 
 [tool.pytest.ini_options]
 asyncio_default_fixture_loop_scope = "function"
